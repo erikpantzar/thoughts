@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Express on epantzar - webdeveloper</title>
+    <link>http://erikpantzar.github.io/thoughts/tags/express/</link>
+    <description>Recent content in Express on epantzar - webdeveloper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 21 Jan 2016 01:00:47 +0100</lastBuildDate>
+    <atom:link href="http://erikpantzar.github.io/thoughts/tags/express/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A small app in progress</title>
+      <link>http://erikpantzar.github.io/thoughts/post/a_small_app_in_progress/</link>
+      <pubDate>Thu, 21 Jan 2016 01:00:47 +0100</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/a_small_app_in_progress/</guid>
+      <description>
+
+&lt;p&gt;Now i basically know how to deploy to heroku (and they got a mongodb labs addon, so got db stuff &amp;ldquo;ok&amp;rdquo;) so now I know where and how to deploy the app! Now I just gotta get the steps left to cleared and a bit knowledge so that we can start producing the application!!&lt;/p&gt;
+
+&lt;h2 id=&#34;mongo-heroku-no-moongoose&#34;&gt;Mongo, heroku (no moongoose)&lt;/h2&gt;
+
+&lt;p&gt;MongoDb basics done, gonna do mongodb vanilla (no mongoose schema stuff..!)&lt;/p&gt;
+
+&lt;h2 id=&#34;auth-and-express&#34;&gt;auth and express&lt;/h2&gt;
+
+&lt;h3 id=&#34;express-stormpath-bootstrap-auth-etc&#34;&gt;express-stormpath - bootstrap auth etc&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://stormpath.com/blog/making-expressjs-authentication-fun-again/&#34;&gt;https://stormpath.com/blog/making-expressjs-authentication-fun-again/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;scotch-yo-auth&#34;&gt;scotch yo - auth !!&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scotch.io/tutorials/easy-node-authentication-setup-and-local&#34;&gt;https://scotch.io/tutorials/easy-node-authentication-setup-and-local&lt;/a&gt;
+( this post also contain some good points on how to structure your express app, and how to maintain secrets etc) =]&lt;/p&gt;
+
+&lt;h2 id=&#34;scotch-json-api-keys&#34;&gt;scotch json api keys&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens&#34;&gt;https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens&lt;/a&gt;
+The plan is to build a backend api sooo&amp;hellip; this link will be usefull i guess&lt;/p&gt;
+
+&lt;h3 id=&#34;more-about-the-project-app&#34;&gt;More about the project/app&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/erikpantzar/listapp&#34;&gt;https://github.com/erikpantzar/listapp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

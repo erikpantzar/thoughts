@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angular on epantzar - webdeveloper</title>
+    <link>http://erikpantzar.github.io/thoughts/tags/angular/</link>
+    <description>Recent content in Angular on epantzar - webdeveloper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 05 May 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://erikpantzar.github.io/thoughts/tags/angular/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fullstack-dreams-still-true</title>
+      <link>http://erikpantzar.github.io/thoughts/post/fullstack-js-still-true/</link>
+      <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/fullstack-js-still-true/</guid>
+      <description>
+
+&lt;h1 id=&#34;fullstack-dreams-still-here&#34;&gt;Fullstack Dreams still here&lt;/h1&gt;
+
+&lt;p&gt;Been looking at some AngularJS tutorials, &amp;ldquo;AngularJS app from the beginning&amp;rdquo;. Most of the vids I&amp;rsquo;ve begun watching covers the whole process but most of them use alot of pre-defined modules straight from Visual Studio, and alot of the workflow comes from knowing just wich menu does what. That part really doesn&amp;rsquo;t appeal to me.&lt;/p&gt;
+
+&lt;p&gt;First and foremost I want to know what is going on, and what code gets generated where and why. The other thing is that I want to be OS and plattform independant.&lt;/p&gt;
+
+&lt;h3 id=&#34;mean-io&#34;&gt;Mean.io&lt;/h3&gt;
+
+&lt;p&gt;Then I found this &lt;a href=&#34;http://mean.io/&#34;&gt;Mean.io&lt;/a&gt; framework or something, all that MEAN stands for is all of the things that you need to build fullstack applications.&lt;/p&gt;
+
+&lt;p&gt;This means that the fullstackJS still is true!&lt;/p&gt;
+
+&lt;h3 id=&#34;age-wisdom-patience&#34;&gt;Age, wisdom &amp;amp; patience&lt;/h3&gt;
+
+&lt;p&gt;However I am getting older, and the frustration with Visual Studio and about how slow it is and doing &lt;em&gt;anything&lt;/em&gt; takes a long time &amp;amp; the bloated editor.. This might be something I will settle with and start using now with my newly gained year (25).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

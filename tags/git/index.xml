@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on epantzar - webdeveloper</title>
+    <link>http://erikpantzar.github.io/thoughts/tags/git/</link>
+    <description>Recent content in Git on epantzar - webdeveloper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Aug 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://erikpantzar.github.io/thoughts/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Version control &amp; Development enviroments</title>
+      <link>http://erikpantzar.github.io/thoughts/post/Dev-enviroments-and-being-a-developer/</link>
+      <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/Dev-enviroments-and-being-a-developer/</guid>
+      <description>
+
+&lt;h1 id=&#34;version-control-development-enviroments&#34;&gt;Version control &amp;amp; Development enviroments&lt;/h1&gt;
+
+&lt;h2 id=&#34;being-a-developer&#34;&gt;Being a developer&lt;/h2&gt;
+
+&lt;p&gt;&lt;span class=&#34;intro&#34;&gt;&amp;ldquo;Inhale&amp;hellip; and exhale. Relax and keep working.&amp;rdquo;
+Not really how it is to be a webdeveloper all the time. This post is about how to get more breathing room and make sure that your misstakes will not matter.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-first-step-to-give-yourself-breathing-room&#34;&gt;The first step to give yourself breathing room&lt;/h2&gt;
+
+&lt;p&gt;Version control; relax and let yourself experiment with diffrent files by branching out to a separate branch.
+Git checkout -b branchname&lt;/p&gt;
+
+&lt;h2 id=&#34;expanding-on-vc&#34;&gt;Expanding on VC&lt;/h2&gt;
+
+&lt;h3 id=&#34;services-and-branches&#34;&gt;Services and branches&lt;/h3&gt;
+
+&lt;p&gt;Have a service listen to your repo and set it up to listen for changes on  branches for changes and commits, and upon commits deploy to the server, being it production or live.&lt;/p&gt;
+
+&lt;h3 id=&#34;tags&#34;&gt;Tags&lt;/h3&gt;
+
+&lt;p&gt;A topic I&amp;rsquo;m not super enlightened in, are tags. Haven&amp;rsquo;t used tags in git at all. Wonder what it is meant to do.
+Listened to a podcast while writing this actually (web ahead) and in the episode i listened to they mention it, didn&amp;rsquo;t stick in my head though.&lt;/p&gt;
+
+&lt;p&gt;Take a listen yourself: &lt;a href=&#34;http://5by5.tv/webahead/79&#34;&gt;WebAhead episode 79&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;local-is-fast&#34;&gt;Local is fast&lt;/h2&gt;
+
+&lt;p&gt;Everybody should have their own development/production enviroment. VM or server at haven&amp;rsquo;t figured out yet, but something along those lines would be optimal for a safe and relaxed enviroment.&lt;/p&gt;
+
+&lt;h2 id=&#34;workflow-style-guide-driven-development&#34;&gt;Workflow: Style guide driven development&lt;/h2&gt;
+
+&lt;p&gt;Also a diffrent topic I recently read an article about, was working on the front-end straight into and from styleguides. What I think this would mean in practice, would be that from a concept/mockup you extract elements and develop them separately and put them and present them in a standalone enviroment to be expanded and prototyped upon and with. The elements would then be refined in the markup of the styleguide and eventually updated and iterated upon.&lt;/p&gt;
+
+&lt;h3 id=&#34;get-strapped&#34;&gt;Get strapped!&lt;/h3&gt;
+
+&lt;p&gt;Why I want to embrace this topic and kind of way of doing things, is because I want sites and apps; projects(!), to be built using kind of a framework. Every websites stylesheet should more or less be a bootstrap kind of framework, where all you have to do is add the diffrent classes to get the kind of component/element and behavior that you want.&lt;/p&gt;
+
+&lt;p&gt;The article meant that the work flow would mean working on the backend of things could be built simultaneously.
+However I think this approach would require a longer startup time to initiate.
+The benefits however would be the prototyping experience with the elements, and the OOP style of things.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://webuild.envato.com/blog/styleguide-driven-development/&#34;&gt;Article on styleguide driven development from the Envato blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

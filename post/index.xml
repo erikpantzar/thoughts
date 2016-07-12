@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on epantzar - webdeveloper</title>
+    <link>http://erikpantzar.github.io/thoughts/post/</link>
+    <description>Recent content in Posts on epantzar - webdeveloper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 May 2016 09:51:52 +0200</lastBuildDate>
+    <atom:link href="http://erikpantzar.github.io/thoughts/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The next steps 2016</title>
+      <link>http://erikpantzar.github.io/thoughts/post/the-next-step/</link>
+      <pubDate>Fri, 27 May 2016 09:51:52 +0200</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/the-next-step/</guid>
+      <description>
+
+&lt;h1 id=&#34;the-next-steps-2016&#34;&gt;The next steps 2016&lt;/h1&gt;
+
+&lt;p&gt;Technology really has progressed far. We can with just Javascript build native mobile and desktop applications. We can build frontend AND backend!&lt;/p&gt;
+
+&lt;h2 id=&#34;pre&#34;&gt;Pre&lt;/h2&gt;
+
+&lt;p&gt;In 2012 I was building responsive websites and interactivity with the jQuery library, adding eventlisteners, toggling classes, looping through elements, measuring, slideing and animation; Mostly DOM-manipulation. I was testing out all the CSS-preprocessors, Stylus, Less, Sass and then stuck with Sass(SCSS).&lt;/p&gt;
+
+&lt;p&gt;The workflow was just editing .PHP or .ASPX files and reloading when you updated your scripts or styles. The scripts were almost manually concatted and versioned by hand in my world. Not until I came across task-runners such as Grunt my process and workflow was just like that.&lt;/p&gt;
+
+&lt;p&gt;But with &lt;strong&gt;Grunt&lt;/strong&gt; alot changed actually, you no longer needed OS-dependant applications to process your Sass, nor did you need to manually bundle your javascripts. Taskrunners even handled image optimizations.&lt;/p&gt;
+
+&lt;p&gt;Parallel to my universe and bubble, &lt;strong&gt;web-apps&lt;/strong&gt; were appearing and exploding, native apps were already a thing, but were mostly for Java or C developers. To me it was really appealing, doing nice transitions between views, saving data in the client dynamically loading in views and not even having to reload the page to get to the next page(!).&lt;/p&gt;
+
+&lt;p&gt;This was the time when Angular reached my knowledge.&lt;/p&gt;
+
+&lt;h2 id=&#34;tech-order-js-reign-over-all&#34;&gt;Tech order &amp;ldquo;JS reign over all&amp;rdquo;&lt;/h2&gt;
+
+&lt;h3 id=&#34;part-1&#34;&gt;Part 1&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;jquery&lt;/li&gt;
+&lt;li&gt;bower&lt;/li&gt;
+&lt;li&gt;bootstrap, ui frameworks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;part-2&#34;&gt;Part 2&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;node, npm&lt;/li&gt;
+&lt;li&gt;sass, less&lt;/li&gt;
+&lt;li&gt;grunt, gulp&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;part-3&#34;&gt;Part 3&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;atom&lt;/li&gt;
+&lt;li&gt;webback&lt;/li&gt;
+&lt;li&gt;commonjs, requirejs&lt;/li&gt;
+&lt;li&gt;angular, react, redux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;part-4&#34;&gt;Part 4&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ng2, JSX, react&lt;/li&gt;
+&lt;li&gt;es6, typescript, nativescript&lt;/li&gt;
+&lt;li&gt;electron, ionic, cordova, phonegap&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;future-possibilities&#34;&gt;Future / Possibilities&lt;/h2&gt;
+
+&lt;p&gt;Greater experiences in apps, desktop, mobile and webb.
+Cross OS, Cross plattform.&lt;/p&gt;
+
+&lt;h2 id=&#34;weakpoints-dangers&#34;&gt;Weakpoints / Dangers&lt;/h2&gt;
+
+&lt;p&gt;To big scopes, bad quality, new tech.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-get-there-invest&#34;&gt;How to get there / Invest&lt;/h2&gt;
+
+&lt;p&gt;Balance legacy tech with research and challenges in the new tech.&lt;/p&gt;
+
+&lt;h2 id=&#34;when-there-profit&#34;&gt;When there / Profit&lt;/h2&gt;
+
+&lt;p&gt;b2b apps, b2c webb, build plattforms and tools for companies.&lt;/p&gt;
+
+&lt;h2 id=&#34;future-possibiities&#34;&gt;Future / Possibiities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;full suite of applications&lt;/li&gt;
+&lt;li&gt;ecommerce, webapp&lt;/li&gt;
+&lt;li&gt;mobile app&lt;/li&gt;
+&lt;li&gt;desktop app&lt;/li&gt;
+&lt;li&gt;plattforms&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;products-and-services&#34;&gt;Products and services&lt;/h3&gt;
+
+&lt;p&gt;With the technologies beeing at the state they are, with the web technologies we have at our hands the possibilities of servivices we as webworkers can supply. We can, with technology we used to use for building interactive websites, build and compile native mobile apps and now even &lt;strong&gt;cross plattform&lt;/strong&gt; desktop applications!&lt;/p&gt;
+
+&lt;h3 id=&#34;the-commerce-scenario&#34;&gt;The commerce scenario&lt;/h3&gt;
+
+&lt;p&gt;The first and foremost communication might still be in the shape of a website with of social media interaction, SEO optimized content, landing pages and campaign content. Supported by an app for loyal customers, with all their preferences filled in, when and where they work, their needs and patterns saved and understood in order to serve them their goods/services in a fashion adapted to just them.&lt;/p&gt;
+
+&lt;p&gt;Other sorts of customers, &lt;strong&gt;B2B&lt;/strong&gt;, or maybe even internal personel might have advantage of having a desktop application in wich they control sales, analyze, setup reccurring orders or &lt;strong&gt;internal education&lt;/strong&gt; plattform.&lt;/p&gt;
+
+&lt;h3 id=&#34;plattform&#34;&gt;Plattform&lt;/h3&gt;
+
+&lt;p&gt;Maybe just serving customers and companies these hands on applications (apps for web, mobile, desktop) might not be sufficent. Maybe the thing to do is look at it from a further distance, to see that the need actually is some kind of plattform for navigating all these applications, services and portals of information.&lt;/p&gt;
+
+&lt;h3 id=&#34;part-1-1&#34;&gt;Part 1&lt;/h3&gt;
+
+&lt;p&gt;Built websites and interactivit with jQuery as DOM-manipulation-lib. Used some jQuery plugins to do sliders and things like that. If ever, we used bower to keep track and install dependancies. Most of the time there were smaller projects where only a few people who were introduced to the project, so keeping track was not that much of a task at this time.&lt;/p&gt;
+
+&lt;h3 id=&#34;part-2-1&#34;&gt;Part 2&lt;/h3&gt;
+
+&lt;p&gt;Tooling was stepping up, we could use grunt instead of some &amp;ldquo;webkit&amp;rdquo; GUI to process and compile our Sass into CSS, bundle our javacripts etc.&lt;/p&gt;
+
+&lt;p&gt;Building web got a bit more complex while also easier to be productive, you had to be a bit more devops than before (if noone else where setting up your tasks etc).&lt;/p&gt;
+
+&lt;p&gt;Standards and best practices were popping up on how to use Grunt/Gulp and your bundling and compiling, also how to not setup your Sass projects for chaos.&lt;/p&gt;
+
+&lt;h3 id=&#34;part-3-1&#34;&gt;Part 3&lt;/h3&gt;
+
+&lt;p&gt;Once again tech improved tooling and took everything a step forward.&lt;/p&gt;
+
+&lt;p&gt;Atom, the open source editor, built with web technologies (HTML, CSS and javascript). Shortly after Atom was announced, other similiar editors popped up, like VisualStudio Code (also Microsoft got their whole open source plattform independant drive going/started in this time)&lt;/p&gt;
+
+&lt;p&gt;CommonJS, RequireJS, the module loaders of javascript. With the taskrunners around, using a module loader for your javascripts is a breeze. Writing and maintaining small modules make projects easier to maintain and also build. Re-using modules to quickly get going is also a great feature of this module thinking.&lt;/p&gt;
+
+&lt;p&gt;In this same chunk comes Webpack, a taskrunner that came in the same wave as React and JSX. Webpack enables some even further abstracting, and one feature that caught my eye was defining payloads. In webpack you can define packages, packages that contain just the parts you want them to contain in form of CSS and Javascript. Wich is crucial if you want to deliver assets of an entire app/website while still maintaining performance and saving bandwidth.&lt;/p&gt;
+
+&lt;p&gt;I also want to mention CriticalCSS as a thing. CritialCSS is a thing where you embedd the CSS needed to paint &amp;ldquo;the fold&amp;rdquo; right in the head. Then asynchronous loading the rest of the CSS. With this is mind, and as a goal, you need to setup your tooling in a way to help you from going insane with manual labour.&lt;/p&gt;
+
+&lt;p&gt;Angular in this segment is a pretty mainstream framework, stable and aknowledge as a real thing and as a viable tool in building websites. Google at this time had alot of their own services built in Angular.&lt;/p&gt;
+
+&lt;p&gt;Shortly after Angulars entry to the scene, the React library came and was a bit more lightweight, not serving the entire suite of features Angular did or does but while being alot more performant while giving another kind of architecture to work with it started growing.&lt;/p&gt;
+
+&lt;h3 id=&#34;webcomponent-specs&#34;&gt;Webcomponent specs&lt;/h3&gt;
+
+&lt;p&gt;With the birth and actualization of Angular and React I can just imagine they were born out of the spec for webcomponents. Angular say themselfs that Angular is an extension of HTML, wich webcomponents is supposed to be. And also in Angular, you kind of can build you own webcomponents.&lt;/p&gt;
+
+&lt;h3 id=&#34;others-honorable-mentions&#34;&gt;Others &amp;ldquo;honorable mentions&amp;rdquo;&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.w3.org/TR/service-workers/&#34;&gt;Service workers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w3c.github.io/push-api/&#34;&gt;Push API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://notifications.spec.whatwg.org/&#34;&gt;Notifications API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;part-4-1&#34;&gt;Part 4&lt;/h3&gt;
+
+&lt;p&gt;With the progress of the &lt;a href=&#34;https://tc39.github.io/ecma262/2016/&#34;&gt;EcmaScript specs, ES2015&lt;/a&gt; (also &amp;lsquo;ES6&amp;rsquo;) so have the library and frameworks taken advantage or prepared their stuff for the new upcomming standards and needs for tooling.&lt;/p&gt;
+
+&lt;p&gt;Angular have gone from 1.x to re-doing all of their architecture in a 2.x version wich in time of writing recently became RC. &lt;a href=&#34;https://angular.io/&#34;&gt;Angular 2&lt;/a&gt; is writting with the support of all kinds of languages (or flavors of javascript)(: TypeScript, ES5/ES2015 &amp;amp; Dart).
+Other who have seen the advances Javascript has taken in the webcommunity, they wanted to fix the things that were missing in Javascript, &amp;ldquo;so naturally&amp;rdquo; (:D) they made the superset of EcmaScript (features who reach stage 3 are implemented) and added the ability to add types. Today they call it &lt;a href=&#34;http://www.typescriptlang.org/&#34;&gt;TypeScript&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;With the entry of React to the community they also brought &lt;a href=&#34;https://facebook.github.io/jsx/&#34;&gt;JSX&lt;/a&gt; to the world.&lt;/p&gt;
+
+&lt;p&gt;Angular also have the same kind of &lt;strong&gt;&amp;ldquo;embed the logics and templates together&amp;rdquo;&lt;/strong&gt; &lt;a href=&#34;https://gist.github.com/erikpantzar/f1c0620011c17c5cb0d021bcc4a9ca67&#34;&gt;example ng2 component from their tutorial&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Transpilers (&lt;a href=&#34;http://babeljs.io/&#34;&gt;babel, babel, babel&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;JSX, ng2 inline templates&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;webapps-apps-and-desktop-applications&#34;&gt;Webapps, Apps and desktop Applications&lt;/h3&gt;
+
+&lt;p&gt;With Javascript you can build alot of diffrent things, and in this last part of Part4 I want to tell you that you can actually build desktop apps with Javascript.
+With &lt;a href=&#34;http://electron.atom.io/&#34;&gt;Electron&lt;/a&gt; (atom.io project) you can build desktop applications with Javascript.&lt;/p&gt;
+
+&lt;p&gt;The part about apps in javascript, you can build mobile apps with &lt;a href=&#34;http://ionicframework.com/&#34;&gt;Ionic framework&lt;/a&gt; (wich is tightly coupled with Angular(1.x)). You can also use Cordova or &lt;a href=&#34;http://phonegap.com/&#34;&gt;PhoneGap&lt;/a&gt; to get a mobile app going with Javascript.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Of course there are some boilerplating involved with these frameworks and SDKs, wich I will get to in the continuance of the post.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;future-possibiities-1&#34;&gt;Future / Possibiities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;full suite of applications&lt;/li&gt;
+&lt;li&gt;ecommerce, webapp&lt;/li&gt;
+&lt;li&gt;mobile app&lt;/li&gt;
+&lt;li&gt;desktop app&lt;/li&gt;
+&lt;li&gt;plattforms&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;products-and-services-1&#34;&gt;Products and services&lt;/h3&gt;
+
+&lt;p&gt;With the technologies beeing at the state they are, with the web technologies we have at our hands the possibilities of servivices we as webworkers can supply. We can, with technology we used to use for building interactive websites, build and compile native mobile apps and now even &lt;strong&gt;cross plattform&lt;/strong&gt; desktop applications!&lt;/p&gt;
+
+&lt;h3 id=&#34;the-commerce-scenario-1&#34;&gt;The commerce scenario&lt;/h3&gt;
+
+&lt;p&gt;The first and foremost communication might still be in the shape of a website with of social media interaction, SEO optimized content, landing pages and campaign content. Supported by an app for loyal customers, with all their preferences filled in, when and where they work, their needs and patterns saved and understood in order to serve them their goods/services in a fashion adapted to just them.&lt;/p&gt;
+
+&lt;p&gt;Other sorts of customers, &lt;strong&gt;B2B&lt;/strong&gt;, or maybe even internal personel might have advantage of having a desktop application in wich they control sales, analyze, setup reccurring orders or &lt;strong&gt;internal education&lt;/strong&gt; plattform.&lt;/p&gt;
+
+&lt;h3 id=&#34;plattform-1&#34;&gt;Plattform&lt;/h3&gt;
+
+&lt;p&gt;Maybe just serving customers and companies these hands on applications (apps for web, mobile, desktop) might not be sufficent. Maybe the thing to do is look at it from a further distance, to see that the need actually is some kind of plattform for navigating all these applications, services and portals of information.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-get-to-there-investment&#34;&gt;How to get to there? Investment&lt;/h2&gt;
+
+&lt;p&gt;In order to make money today, serving todays customers while also going towards the goal of learning and using the next steps technology we need some kind of balance.&lt;/p&gt;
+
+&lt;p&gt;To me, the cost of not jumping on the train of what is to come means that either I&amp;rsquo;m useless or I am working at a company using second tier technology. Using second tier technologoy, serving second tier products means that new talent will not show up, customers will have second tier products sold to them.&lt;/p&gt;
+
+&lt;p&gt;Also as I know of these technologies, I cannot myself jump on and just add them to my repertoar, I need to focus on some parts, some toolings and technologies. And you can&amp;rsquo;t either as a successfull living person, with a balanced life with friends, work and exercise also have a fulltime study of new standards and technologies.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;The cost is too damn high!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;I have in the past, done research and studied and learnt technologies, tools etc by myself, but today, the price is too high, I cannot afford to spend the same time researching and learning outside of work as I used to. Not just because of my family part, but because today I have greater understanding of technologies, that it is too hard, and too much to choose and learn from, that I need help. I want that help to be where the rewards will be reckt.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-plan&#34;&gt;The plan&lt;/h3&gt;
+
+&lt;p&gt;In order to keep knowledge high and making already hired co-workers learn these new technologies, we need to balance their days and hours so that we all make progress in current and new technologies.&lt;/p&gt;
+
+&lt;h4 id=&#34;new-and-old&#34;&gt;New and old&lt;/h4&gt;
+
+&lt;p&gt;Doing prototypes and having assigned lab projects that you might present and demo to fellow employees. Make an event, make a compettition, or just assign a group to solve a problem using new technologies, make them present the solution and also what they woulld have wanted to be diffrent or features that they were missing in the tooling or plattform.&lt;/p&gt;
+
+&lt;p&gt;while learning new things it is also important to let people who aren&amp;rsquo;t familiar with current tech-stack catch up or improve in their current respective fields. Doing code reviews and presenting features and projects in the same fashion as with the new tech would not only improve their knowledge but also further fortify the methods for the new-tech demos.&lt;/p&gt;
+
+&lt;h2 id=&#34;when-there-profits&#34;&gt;When there, profits?&lt;/h2&gt;
+
+&lt;p&gt;Now we have methods and balance in the working enviroment, people are increasing knowledge in current and new tech while we are making money. We have a stronger workforce, happier workforce, more hireable workforce we need to take care of these new rockstars keep challenging them in ways to stimulate and keep them motivated and learning.&lt;/p&gt;
+
+&lt;p&gt;We have with all the technological progresses broadened and narrowed our services and products while having fun and learning together.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A small app in progress</title>
+      <link>http://erikpantzar.github.io/thoughts/post/a_small_app_in_progress/</link>
+      <pubDate>Thu, 21 Jan 2016 01:00:47 +0100</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/a_small_app_in_progress/</guid>
+      <description>
+
+&lt;p&gt;Now i basically know how to deploy to heroku (and they got a mongodb labs addon, so got db stuff &amp;ldquo;ok&amp;rdquo;) so now I know where and how to deploy the app! Now I just gotta get the steps left to cleared and a bit knowledge so that we can start producing the application!!&lt;/p&gt;
+
+&lt;h2 id=&#34;mongo-heroku-no-moongoose&#34;&gt;Mongo, heroku (no moongoose)&lt;/h2&gt;
+
+&lt;p&gt;MongoDb basics done, gonna do mongodb vanilla (no mongoose schema stuff..!)&lt;/p&gt;
+
+&lt;h2 id=&#34;auth-and-express&#34;&gt;auth and express&lt;/h2&gt;
+
+&lt;h3 id=&#34;express-stormpath-bootstrap-auth-etc&#34;&gt;express-stormpath - bootstrap auth etc&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://stormpath.com/blog/making-expressjs-authentication-fun-again/&#34;&gt;https://stormpath.com/blog/making-expressjs-authentication-fun-again/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;scotch-yo-auth&#34;&gt;scotch yo - auth !!&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scotch.io/tutorials/easy-node-authentication-setup-and-local&#34;&gt;https://scotch.io/tutorials/easy-node-authentication-setup-and-local&lt;/a&gt;
+( this post also contain some good points on how to structure your express app, and how to maintain secrets etc) =]&lt;/p&gt;
+
+&lt;h2 id=&#34;scotch-json-api-keys&#34;&gt;scotch json api keys&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens&#34;&gt;https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens&lt;/a&gt;
+The plan is to build a backend api sooo&amp;hellip; this link will be usefull i guess&lt;/p&gt;
+
+&lt;h3 id=&#34;more-about-the-project-app&#34;&gt;More about the project/app&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/erikpantzar/listapp&#34;&gt;https://github.com/erikpantzar/listapp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fullstack mountain</title>
+      <link>http://erikpantzar.github.io/thoughts/post/fullstack-mountain/</link>
+      <pubDate>Sun, 27 Dec 2015 18:48:20 +0100</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/fullstack-mountain/</guid>
+      <description>
+
+&lt;h2 id=&#34;all-things-are-turning-javascript&#34;&gt;All things are turning Javascript&lt;/h2&gt;
+
+&lt;p&gt;Having the entire fall working solely with Javascript (angular 1.4.x), I feel the mountain/dream of getting fullstack with JS is getting closer and closer. Also, almost the entire office wants to learn and get involved working with Angular. I&amp;rsquo;ve been reading more and more about how projects are going for a full JS approach, recently Wordpress Admin UI has gone full JS and rely on a REST-API for data and presentation and interaction with JS client. Read more about the Wordpress.com going JS here: &lt;a href=&#34;https://developer.wordpress.com/calypso/&#34; 
+       title=&#34;Read more about the Wordpress.com going JS here&#34;&gt;developer.wordpress.com/calypso&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;2014&amp;rdquo; The rise of web-apps reached my screens.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Myself, I feel that the deeper i go into the hole of Javascript, I felt early 2014, that all things started
+going in the direction of Javascript controlled enviroments/solutions.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-fall&#34;&gt;The fall&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been doing Angular/Ajax things for the entirety of 2015. And during the fall and winter it has been all about Angular. I&amp;rsquo;ve come across alot of communitys (Most of all angularbuddies on slack &lt;a href=&#34;http://angularbuddies.com/&#34; title=&#34;Sign up for angularbuddies here&#34;&gt;Sign up&lt;/a&gt;) wich has helped me be brave throughout the fall. I&amp;rsquo;ve read up alot on diffrent scope management techniques and learnt alot about how services work and managed to do some errorous using of them.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Not sure how or what I actually did, but it was some kind of circular dependancy thing. We stored things in services sort of, wich in turn made things not so great.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;teaching&#34;&gt;Teaching&lt;/h3&gt;
+
+&lt;p&gt;The fall also started of with me working quite solo on the Angular parts, wich made me have to work alot on
+the architecture and how things were meant to work going forward. Also, beeing the one and only in charge meant I had
+to teach and instruct others how it was meant to work. And trying to teach and learn others how Anuglar works made me
+understsand it better myself (not sure the ones I tried to teach had the same experience).&lt;/p&gt;
+
+&lt;h2 id=&#34;the-new-stuff&#34;&gt;The new stuff&lt;/h2&gt;
+
+&lt;p&gt;In the meanting working with the project, I took on learning and checking out some React. In the starting
+pits of the project, we had a research stage where we investigated what technologies we would use to
+solve the problems we knew we would come across and have to solve during the project. I tried measuring
+Angular vs React, but I had to take my knowledge of already known Angular resources and the great marketing
+team over at Google, and the headstart they already had in market shares over let&amp;rsquo;s say React.&lt;/p&gt;
+
+&lt;p&gt;However there were moments in which I took some time to try in learning and experimenting more with React than
+I had. The experience I have with React is that it is so big and takes alot of backend knowledge and back-end
+like mentality and knowledge.&lt;/p&gt;
+
+&lt;h3 id=&#34;typescript-ng2&#34;&gt;TypeScript, NG2&lt;/h3&gt;
+
+&lt;p&gt;I also took some time too and with help of the &lt;a href=&#34;angularbuddies.slack.com&#34;&gt;Angularbuddies-slack&lt;/a&gt; I
+came across some Angular2 clips and articles, presenting and showing how Angular2-apps works and gets
+developed. It appears that alot of what most of my peers think is bad with Javascript (typeless ness, the
+dynamical and free-moving anarchistic parts) will be dealt with in TypeScript, in turn, Angular2 (ng2) is
+written in TypeScript.&lt;/p&gt;
+
+&lt;p&gt;Also in turn, React looks alot like NG2 and the TypeScript things that I have seen.&lt;/p&gt;
+
+&lt;h3 id=&#34;future-and-present-components&#34;&gt;&amp;ldquo;Future and Present&amp;rdquo; - Components&lt;/h3&gt;
+
+&lt;p&gt;Also parts of the new things I&amp;rsquo;ve learnt have in turn almost everytime felt like the next step in my Angular learning
+curve. The parts on turning things into components came in a time where I felt that the issues I were having with
+the project were due to us/me not having split things up into more manable components/ or for us directives (at the
+time).&lt;/p&gt;
+
+&lt;h4 id=&#34;links&#34;&gt;Links&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://angular.io/&#34;&gt;Angular.io&lt;/a&gt; - TypeScript examples for Ng2&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=K6EBpMesubo&#34;&gt;Youtube - TypeScript intro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KdIretrDPhA&#34;&gt;Youtube - ng2/ng1.5 Components &amp;ldquo;revolution&amp;rdquo;&lt;/a&gt;
+&lt;p&gt;A realisation I made this fall, was that we should have just built everything into smaller and more manageable components instead of have things living inside of views.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;summary-and-conclusion&#34;&gt;Summary and Conclusion&lt;/h2&gt;
+
+&lt;p&gt;The more I learn of the current, the more I learn and come across difficulties and barriers, I look to the horizon
+for aid. The future holds more Javascript, but we will come to call it TypeScript. Tools will help more, also
+frameworks like ng2 and React will make the ride a bit faster and hopefully smoother.&lt;/p&gt;
+
+&lt;h3 id=&#34;fear-of-the-unknown&#34;&gt;Fear of the unknown&lt;/h3&gt;
+
+&lt;p&gt;Coming across new technologies and in some ways languages, there are also new methologies, like Classes.. oh.. Do you
+ have to use them? Are they just there for aid? I&amp;rsquo;m not sure how to approach that. Should I start reading Java, or
+ just search for how to work and structure classes best practices, or what? Time will tell I guess.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The new era</title>
+      <link>http://erikpantzar.github.io/thoughts/post/the-new-era/</link>
+      <pubDate>Sat, 26 Dec 2015 23:51:13 +0100</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/the-new-era/</guid>
+      <description>
+
+&lt;h1 id=&#34;the-new-era&#34;&gt;The New Era&lt;/h1&gt;
+
+&lt;p class=intro&gt;
+It is the very end of 2015, and alot has changed since my last post in 2014.
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Got another kid ( Mila )&lt;/li&gt;
+&lt;li&gt;Working at another company (&lt;a href=&#34;http://magicbyistone.se&#34;&gt;Magic&lt;/a&gt; - still as a Front-end developer)&lt;/li&gt;
+&lt;li&gt;Writing this post in the new static site tool &lt;a href=&#34;http://gohugo.io&#34;&gt;http://gohugo.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Begun working with fullstack JS development (Call me Angular expert)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version control &amp; Development enviroments</title>
+      <link>http://erikpantzar.github.io/thoughts/post/Dev-enviroments-and-being-a-developer/</link>
+      <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/Dev-enviroments-and-being-a-developer/</guid>
+      <description>
+
+&lt;h1 id=&#34;version-control-development-enviroments&#34;&gt;Version control &amp;amp; Development enviroments&lt;/h1&gt;
+
+&lt;h2 id=&#34;being-a-developer&#34;&gt;Being a developer&lt;/h2&gt;
+
+&lt;p&gt;&lt;span class=&#34;intro&#34;&gt;&amp;ldquo;Inhale&amp;hellip; and exhale. Relax and keep working.&amp;rdquo;
+Not really how it is to be a webdeveloper all the time. This post is about how to get more breathing room and make sure that your misstakes will not matter.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-first-step-to-give-yourself-breathing-room&#34;&gt;The first step to give yourself breathing room&lt;/h2&gt;
+
+&lt;p&gt;Version control; relax and let yourself experiment with diffrent files by branching out to a separate branch.
+Git checkout -b branchname&lt;/p&gt;
+
+&lt;h2 id=&#34;expanding-on-vc&#34;&gt;Expanding on VC&lt;/h2&gt;
+
+&lt;h3 id=&#34;services-and-branches&#34;&gt;Services and branches&lt;/h3&gt;
+
+&lt;p&gt;Have a service listen to your repo and set it up to listen for changes on  branches for changes and commits, and upon commits deploy to the server, being it production or live.&lt;/p&gt;
+
+&lt;h3 id=&#34;tags&#34;&gt;Tags&lt;/h3&gt;
+
+&lt;p&gt;A topic I&amp;rsquo;m not super enlightened in, are tags. Haven&amp;rsquo;t used tags in git at all. Wonder what it is meant to do.
+Listened to a podcast while writing this actually (web ahead) and in the episode i listened to they mention it, didn&amp;rsquo;t stick in my head though.&lt;/p&gt;
+
+&lt;p&gt;Take a listen yourself: &lt;a href=&#34;http://5by5.tv/webahead/79&#34;&gt;WebAhead episode 79&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;local-is-fast&#34;&gt;Local is fast&lt;/h2&gt;
+
+&lt;p&gt;Everybody should have their own development/production enviroment. VM or server at haven&amp;rsquo;t figured out yet, but something along those lines would be optimal for a safe and relaxed enviroment.&lt;/p&gt;
+
+&lt;h2 id=&#34;workflow-style-guide-driven-development&#34;&gt;Workflow: Style guide driven development&lt;/h2&gt;
+
+&lt;p&gt;Also a diffrent topic I recently read an article about, was working on the front-end straight into and from styleguides. What I think this would mean in practice, would be that from a concept/mockup you extract elements and develop them separately and put them and present them in a standalone enviroment to be expanded and prototyped upon and with. The elements would then be refined in the markup of the styleguide and eventually updated and iterated upon.&lt;/p&gt;
+
+&lt;h3 id=&#34;get-strapped&#34;&gt;Get strapped!&lt;/h3&gt;
+
+&lt;p&gt;Why I want to embrace this topic and kind of way of doing things, is because I want sites and apps; projects(!), to be built using kind of a framework. Every websites stylesheet should more or less be a bootstrap kind of framework, where all you have to do is add the diffrent classes to get the kind of component/element and behavior that you want.&lt;/p&gt;
+
+&lt;p&gt;The article meant that the work flow would mean working on the backend of things could be built simultaneously.
+However I think this approach would require a longer startup time to initiate.
+The benefits however would be the prototyping experience with the elements, and the OOP style of things.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://webuild.envato.com/blog/styleguide-driven-development/&#34;&gt;Article on styleguide driven development from the Envato blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EMACS is sexy</title>
+      <link>http://erikpantzar.github.io/thoughts/post/emcs-is-sexy/</link>
+      <pubDate>Thu, 03 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/emcs-is-sexy/</guid>
+      <description>
+
+&lt;h1 id=&#34;emacs-sexy&#34;&gt;Emacs.sexy ?&lt;/h1&gt;
+
+&lt;p&gt;Found a link to &lt;a href=&#34;http://emacs.sexy/&#34;&gt;emacs.sexy&lt;/a&gt; and read some stuff about it and now I&amp;rsquo;m sitting in emacs and writing blog posts in it.
+Have written a couple of commands on a piece of paper.&lt;/p&gt;
+
+&lt;p&gt;After getting some stuff done I need to get started on adding functionality and text highlighting to text and some kind of git connection.&lt;/p&gt;
+
+&lt;h2 id=&#34;coding-mailing-calendaring-playing-games-of-tetris&#34;&gt;Coding, Mailing, Calendaring &amp;amp; playing games of tetris&lt;/h2&gt;
+
+&lt;p&gt;For the future i need to get packages for mail, irc, calendar and the whole thing.
+Right now im missing syntax-highlightning and some way to change sizes of windows.&lt;/p&gt;
+
+&lt;h2 id=&#34;tough-stuff-glossary&#34;&gt;Tough stuff, glossary&lt;/h2&gt;
+
+&lt;p&gt;I got some binds written down for:
+- Buffer
+- Window management
+- File navigation, in file, rows and text
+- Text manipulation (C-u 8 *)
+- Deletion of text etc&lt;/p&gt;
+
+&lt;p&gt;And that is where i am right now.&lt;/p&gt;
+
+&lt;h2 id=&#34;gnus-for-gmail&#34;&gt;GNUS for Gmail&lt;/h2&gt;
+
+&lt;p&gt;Okay.. so..  I&amp;rsquo;ve been trying to get my gmail to be able to feed to my emacs editor.. For about 40minutes&amp;hellip; :)&lt;/p&gt;
+
+&lt;h4 id=&#34;update-00-58-14-july-2014&#34;&gt;Update: 00:58 14 July 2014&lt;/h4&gt;
+
+&lt;h4 id=&#34;so-emacs-preinstalled-on-osx-was-version-22-spent-5-hours-in-it&#34;&gt;So.. Emacs preinstalled on osx was version 22, spent 5 hours in it.&lt;/h4&gt;
+
+&lt;p&gt;That from starting out with downloading the latest version, but assuming it would be the version run when running it from terminal (iterm), i was wrong.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-2-a-week-later&#34;&gt;Update #2 A week later&lt;/h4&gt;
+
+&lt;p&gt;Haven&amp;rsquo;t really bothered to get deeper into emacs, I think I am at just browsing files. and im not satisfied with the functionallity i&amp;rsquo;ve been able to achieve with the time I put in.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-3-first-week-at-work&#34;&gt;Update #3 First week at work&lt;/h4&gt;
+
+&lt;p&gt;Have really abandomned emacs for now. Reverted back to Sublime text. It really is much easier for now!&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://xor.lonnen.com/2013/01/04/emacs-on-osx.html&#34;&gt;Setting up emacs on osx tips&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fullstack-dreams-still-true</title>
+      <link>http://erikpantzar.github.io/thoughts/post/fullstack-js-still-true/</link>
+      <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/fullstack-js-still-true/</guid>
+      <description>
+
+&lt;h1 id=&#34;fullstack-dreams-still-here&#34;&gt;Fullstack Dreams still here&lt;/h1&gt;
+
+&lt;p&gt;Been looking at some AngularJS tutorials, &amp;ldquo;AngularJS app from the beginning&amp;rdquo;. Most of the vids I&amp;rsquo;ve begun watching covers the whole process but most of them use alot of pre-defined modules straight from Visual Studio, and alot of the workflow comes from knowing just wich menu does what. That part really doesn&amp;rsquo;t appeal to me.&lt;/p&gt;
+
+&lt;p&gt;First and foremost I want to know what is going on, and what code gets generated where and why. The other thing is that I want to be OS and plattform independant.&lt;/p&gt;
+
+&lt;h3 id=&#34;mean-io&#34;&gt;Mean.io&lt;/h3&gt;
+
+&lt;p&gt;Then I found this &lt;a href=&#34;http://mean.io/&#34;&gt;Mean.io&lt;/a&gt; framework or something, all that MEAN stands for is all of the things that you need to build fullstack applications.&lt;/p&gt;
+
+&lt;p&gt;This means that the fullstackJS still is true!&lt;/p&gt;
+
+&lt;h3 id=&#34;age-wisdom-patience&#34;&gt;Age, wisdom &amp;amp; patience&lt;/h3&gt;
+
+&lt;p&gt;However I am getting older, and the frustration with Visual Studio and about how slow it is and doing &lt;em&gt;anything&lt;/em&gt; takes a long time &amp;amp; the bloated editor.. This might be something I will settle with and start using now with my newly gained year (25).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Github pages and Jekyll</title>
+      <link>http://erikpantzar.github.io/thoughts/post/Ultimate-blog-experience/</link>
+      <pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/Ultimate-blog-experience/</guid>
+      <description>
+
+&lt;h1 id=&#34;ultimate-blog-experience&#34;&gt;Ultimate blog experience&lt;/h1&gt;
+
+&lt;h3 id=&#34;this-post-is-about-me-discovering-and-using-jekyll-http-jekyllrb-com-as-a-site-generator-and-also-finding-github-pages-http-pages-github-com-and-hosting-through-github-and-the-workflow-connected-to-theese&#34;&gt;This post is about me discovering and using &lt;a href=&#34;http://Jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; as a site generator and also finding &lt;a href=&#34;http://pages.github.com&#34;&gt;Github Pages&lt;/a&gt; and hosting through github and the workflow connected to theese.&lt;/h3&gt;
+
+&lt;p&gt;Being a developer and wanting to have a plattform to express your thoughts and experiment, also sharing these, a blog is a must.&lt;/p&gt;
+
+&lt;p&gt;Thinking of a own-hosted open-source plattform, the first thing to cross many minds would be Wordpress. I&amp;rsquo;ve had a lot of experience publishing content with Wordpress &lt;a href=&#34;#wpseason&#34; title=&#34;My rant along about Wordpress&#34;&gt;(Read more: wordpress season)&lt;/a&gt;. But now I&amp;rsquo;m rather tired of it.
+I constantly redesign some parts of my blog, I&amp;rsquo;m never satisfied with the experience nor the color palette. Or maybe something needs fixing with the layout..&lt;/p&gt;
+
+&lt;p&gt;Since I read a lot of blogs and a lot of blogs about development and by developers it  must not have been that high odds that I would come across an &lt;a href=&#34;http://24ways.org/2013/get-started-with-github-pages/&#34;&gt;article about hosting sites on github and also using a static site generator&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;say-hello-to-jekyll&#34;&gt;Say hello to Jekyll&lt;/h2&gt;
+
+&lt;p&gt;For me to enjoy a tool, any tool, it needs to be flexible and easy to make it change the flow of things.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve heard that other developers use static site generators of diffrent flavors. And since i look up to them and go to them for inspiration and look to them to see where the internet of things are going. Of course a static site generator was interesting and something to checkout.&lt;/p&gt;
+
+&lt;p&gt;This is how i came across and decided &lt;em&gt;give Jekyll a season&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;multi-flavoured&#34;&gt;Multi-flavoured&lt;/h4&gt;
+
+&lt;p&gt;The flexibility you get is that it pretty much accepts any format for pages and posts: You could write your posts in &lt;em&gt;markdown&lt;/em&gt; or &lt;em&gt;html&lt;/em&gt; or both!&lt;/p&gt;
+
+&lt;h4 id=&#34;custom-layouts&#34;&gt;Custom layouts&lt;/h4&gt;
+
+&lt;p&gt;It is really easy to custom style your posts or pages, with the way layouts work, you can have diffrent layouts for diffrent things. I have set it up in the way that with one of my layouts, it loads in a custom CSS of my choice imba! In the future I could even set it up in a way that it even would load in a custom javascript file.&lt;/p&gt;
+
+&lt;p&gt;Checkout &lt;a href=&#34;http://jekyllrb.com&#34;&gt;what Jekyll is&lt;/a&gt; and &lt;a href=&#34;http://jekyllrb.com/docs/installation/&#34;&gt;how to install&lt;/a&gt; (super easy!)&lt;/p&gt;
+
+&lt;h2 id=&#34;next-level-hosting&#34;&gt;Next level hosting&lt;/h2&gt;
+
+&lt;p&gt;Ever since getting into git and version controlling all the stuff that are worth version controll and not, I&amp;rsquo;ve really gotten into it. Part of the thing is being in the terminal looking like a badass &amp;lsquo;git commit&amp;rsquo;-ing and &amp;lsquo;git checkout -b newfeature&amp;rsquo;-ing like a hacker, and it feels good.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;i-m-not-sure-if-the-feature-hosting-through-github-is-new-or-just-unexploited-but-it-is-pure-genious&#34;&gt;I&amp;rsquo;m not sure if the feature; hosting through github is new or just unexploited &lt;em&gt;but.. it.. is.. pure genious!!&lt;/em&gt;&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;add-commit-merge-push-live&#34;&gt;Add, Commit, Merge, Push&amp;hellip; Live!&lt;/h4&gt;
+
+&lt;p&gt;I&amp;rsquo;ve dreamt of projects where you could just push your commits to the master-branch  and the changes got published.. Of course with the benefit of launches going wrong you could just revert to the last working commit in an instant.&lt;/p&gt;
+
+&lt;p&gt;This is pretty much how Github Pages work:
+You push your changes to the master branch or the gh-page depending on what kind of repo you got.&lt;/p&gt;
+
+&lt;p&gt;And now that I found &lt;strong&gt;github pages&lt;/strong&gt; AND &lt;strong&gt;jekyll&lt;/strong&gt; things were just flashing before my eyes and some flashing stopped and I waited for the domain to get pointed where it now is now:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;epantzar -&amp;gt; erikpantzar.github.io
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;h3 id=&#34;wpseason&#34;&gt;Wordpress Season&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ve had fully static page, but for the most part I&amp;rsquo;ve hosted my own site and sometimes blog on Wordpress wich is a really nice plattform for blogging or just building sites in. During this time I have learnt a lot about how Wordpress works and what you can do with the tool and how to develop themes.
+In the meanwhile in my day to day work, a lot of WP projects were done, so the both worlds fit together and gained from each other.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Filemanager on Unix</title>
+      <link>http://erikpantzar.github.io/thoughts/post/filemanager-on-unix/</link>
+      <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/filemanager-on-unix/</guid>
+      <description>
+
+&lt;h1 id=&#34;ssh-in-and-out-of-a-server&#34;&gt;SSH in and out of a server&lt;/h1&gt;
+
+&lt;p&gt;The thing I was asked to perform was to change a template in a wordpress theme. This wordpress theme was hosted in (to me) a rather unorthodox enviroment.&lt;/p&gt;
+
+&lt;p&gt;I got the IP-adress and root user credentials.&lt;/p&gt;
+
+&lt;p&gt;So here&amp;rsquo;s what I did to acess the server and actually find where the actual files for the site was located:&lt;/p&gt;
+
+&lt;h2 id=&#34;ssh-into-the-server-and-find-the-site&#34;&gt;SSH into the server and find the site&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;SSH into the server:
+## then i got prompted for password (entered it ofc)
+## USE:
+ssh &amp;lt;username&amp;gt;@&amp;lt;server&amp;gt;
+$ ssh root@12.34.56.78.90
+
+## Next Task: Find where the site is placed
+## since it is a wordpress site I know
+## there would be a directory called &#39;wp-content&#39;
+$ locate wp-content
+
+## took me to the wp-content folder
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;get-access-to-the-files-and-change-them&#34;&gt;Get access to the files and change them&lt;/h2&gt;
+
+&lt;p&gt;I have worked with linux guys one time before, and knew it is a bit tricky to actually change the files and content wich are hosted in this fashion.&lt;/p&gt;
+
+&lt;p&gt;In the past you had to copy the files you wanted to access outside of the server to a users home directory and then sftp/ftp the files from there.&lt;/p&gt;
+
+&lt;h2 id=&#34;find-your-transfer-window&#34;&gt;Find your transfer window&lt;/h2&gt;
+
+&lt;p&gt;So to find where I could copy/move the files that I wanted to change, i accessed the same IP with filezilla (the same IP) with SFTP settings.&lt;/p&gt;
+
+&lt;p&gt;I then found a folder where I could put my files. To find the location I got to with filezilla, I created a folder and named it &amp;lsquo;temporary_transfer&amp;rsquo;. With having done this I knew a folder I could search for in order to get the location.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ locate temporary_transfer
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now all I had to do was copy the wordpress theme files to the temporary location.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;## 1. Get to the themes folder for the Wordpress site
+$ cd wordpress/wp-content/themes/
+
+## 2. Copy wordpress theme to transfer location
+$ cp -R &amp;lt;THEMENAME&amp;gt; /temporary_transfer/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;finishing-up&#34;&gt;Finishing up&lt;/h2&gt;
+
+&lt;p&gt;Then I downloaded and did what I wanted with the theme files, then uploaded them to the transfer window.&lt;/p&gt;
+
+&lt;p&gt;From here you copy the files from the window back to the theme location on the server.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd transfer_window
+$ cp -R &amp;lt;EDITED_THEME&amp;gt; /wordpress/wp-content/themes/
+
+## Keep hustling
+## Hustle hard
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;related-links&#34;&gt;Related links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kb.mediatemple.net/questions/1599/&#34;&gt;How to use SSH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.linfo.org/cp.html&#34;&gt;How to copy things in linux enviroment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting further w JS</title>
+      <link>http://erikpantzar.github.io/thoughts/post/Getting-further-Javascript/</link>
+      <pubDate>Sat, 22 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/Getting-further-Javascript/</guid>
+      <description>
+
+&lt;h1 id=&#34;getting-furter&#34;&gt;Getting furter&lt;/h1&gt;
+
+&lt;p&gt;Now that I&amp;rsquo;ve dived into the vanilla JS with &lt;a href=&#34;http://www.codecademy.com/learn&#34; title=&#34;Go learn vanilla JS..!!&#34;&gt;codeacademys&lt;/a&gt; help I refreshed my programming a bit, dusted it off a bit. Now I wanna keep it up and get better!&lt;/p&gt;
+
+&lt;h2 id=&#34;the-next-one&#34;&gt;The next one&lt;/h2&gt;
+
+&lt;p&gt;What I want to do going forward is to make a base of people with properties and then present it and compare keys to each other.&lt;/p&gt;
+
+&lt;h3 id=&#34;stats&#34;&gt;Stats&lt;/h3&gt;
+
+&lt;p&gt;We got a soccer team wich I would like to keep track of all us players, and setup a base and profile for each player based on my perception of theirs and mine ability on the field.&lt;br&gt;
+For example I like to sprint past opponents and maybe do some Ronaldo signature moves, but I can only sprint a limited amount due to my stamina being poor. So my player stat would be something like this:
+&lt;pre&gt;
+var erik = new Player{
+    position: position[4], // attacker
+    speed: 80,
+    technique: 60,
+    stamina: 40,
+    // array
+    specialty: speciality[2], speciality[3], speciality[4]
+};
+&lt;/pre&gt;&lt;/p&gt;
+
+&lt;p&gt;Also there would be some string properties like name, position, and profile image or something.&lt;/p&gt;
+
+&lt;h2 id=&#34;reusability&#34;&gt;Reusability&lt;/h2&gt;
+
+&lt;p&gt;The most advanced thing I&amp;rsquo;ve thought of is to have some properties collect their values from arrays; In FIFA you can have certain abilites such as &amp;ldquo;Sprinter&amp;rdquo;, &amp;ldquo;Longshot taker&amp;rdquo;, &amp;ldquo;Injury prone&amp;rdquo; or &amp;ldquo;Engine&amp;rdquo;. My way of getting this is to set the value to something out of an array to be able to reuse those properties on other player without worrying about misstyping the value and keep it expandable.&lt;/p&gt;
+
+&lt;h2 id=&#34;flaws-and-future&#34;&gt;Flaws and future&lt;/h2&gt;
+
+&lt;p&gt;The thing that this lives on is that it is hardcoded into the JS file (my base of players). What would be nice is for the future to move this to some database structure (gotta expand and learn more of PHP and SQL to get that going.. Codacedemy u got my back?)&lt;/p&gt;
+
+&lt;h2 id=&#34;look-ma-i-made-it&#34;&gt;Look ma, I made it!&lt;/h2&gt;
+
+&lt;p&gt;Completed the JS course to a full 100%&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://erikpantzar.github.io/thoughts/data/img/march/ca-js-100.jpg&#34; alt=&#34;My vanilla JS progress&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Codeacamdey is addictive</title>
+      <link>http://erikpantzar.github.io/thoughts/post/Codeacademy-is-addictive/</link>
+      <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/Codeacademy-is-addictive/</guid>
+      <description>
+
+&lt;h1 id=&#34;codecademy-com-is-super-addictive&#34;&gt;Codecademy.com is super addictive&lt;/h1&gt;
+
+&lt;p&gt;A friend of mine asked me if i knew PHP (checkout the new php.net site, super hot imo) I quickly wondered why, since he&amp;rsquo;s not at programmer friend of mine.
+It turned out he was sitting and going through the classes over at codecademy.com, and currently he was at PHP.
+Helped him with some of his tasks, then headed into my own account and kept on brushing on my own PHP lessions.&lt;/p&gt;
+
+&lt;h2 id=&#34;vanilla-js-so-good&#34;&gt;Vanilla JS, So good&lt;/h2&gt;
+
+&lt;p&gt;After getting bored with PHP (got stuck) i headed into codecademys vanilla js corner. It is a big thing, the thing about developers not knowing vanilla js but instead requiring jQuery for everything they (we) do. And I&amp;rsquo;ve been meaning to get on the JS train.&lt;/p&gt;
+
+&lt;p&gt;All of my idols and people I follow on the internet are also communicating the message and weight of knowing vanilla js. Also alot of new technologies require the knowledge of this. So there is alot of credit and legitimacy to this message.&lt;/p&gt;
+
+&lt;h2 id=&#34;all-nighter&#34;&gt;All nighter&lt;/h2&gt;
+
+&lt;p&gt;Ended up sitting longer than I should have in the one seating, one part was the companion on Skype who was struggling with his PHP, an other was the hunger for education and the last the profile scores.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Finally got Jekyll to work</title>
+      <link>http://erikpantzar.github.io/thoughts/post/Finally-got-jekyll/</link>
+      <pubDate>Mon, 03 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/Finally-got-jekyll/</guid>
+      <description>
+
+&lt;h1 id=&#34;finally-got-jekyll-to-work&#34;&gt;Finally got Jekyll to work&lt;/h1&gt;
+
+&lt;p class=intro&gt;It all started when I read my own post on my former WordPress-site about Grunt, that on the site the
+article
+was
+on, there was also a post about getting into Jekyll and later on getting into Github Pages. Since I&#39;m a big fan of both github and really into these static site generators I decided to have a go.&lt;/p&gt;
+
+&lt;h2 id=&#34;it-begins&#34;&gt;It begins&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m quite new to grunt and task-running things through Javascript, but I&amp;rsquo;m very fond of it, and want to use it on everything.&lt;/p&gt;
+
+&lt;h2 id=&#34;github-gogo&#34;&gt;Github gogo&lt;/h2&gt;
+
+&lt;p&gt;After I got my github.io domain working, I decided to drop the old site and the hosting that is hosted on. Transferring files over FTP is so not me (anymore).&lt;/p&gt;
+
+&lt;p&gt;I really like to redesign things whilst producing content in the form of blogposts; So the idea of having it directly on Github surely wasn&amp;rsquo;t hard to start working towards.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Get grunting</title>
+      <link>http://erikpantzar.github.io/thoughts/post/get-grunting/</link>
+      <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/get-grunting/</guid>
+      <description>&lt;h1 class=&#34;title&#34;&gt;Get Grunting&lt;/h1&gt;
+
+&lt;p&gt;Have previously fought with getting Grunt working. Now around Christmas i found a blogg linking to this article: &lt;a href=&#34;http://24ways.org/2013/grunt-is-not-weird-and-hard/&#34;&gt;Grunt is not weird and hard&lt;/a&gt;.&lt;p&gt;
+
+&lt;p&gt;Wuth some  trial and errors with various node stuff and managing and installing Sass and compass with ease, getting grunt with the artcile previously mentioned was a breeze.&lt;/p&gt;
+
+&lt;p&gt;So going from just getting Sass on new and already running projects, I now Grutify them. Getting the Compass and Sass with the JS concatinations and JSHints and Uglift.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The greatest feeling&lt;/strong&gt; is when you for the first time can separeate your JS into separate files..!!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/erikpantzar/gruntgogo&#34;&gt;https://github.com/erikpantzar/gruntgogo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe width=&#34;640&#34; height=&#34;360&#34; src=&#34;//www.youtube.com/embed/vuWMqRxeiuk?theme=light&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/embed/vuWMqRxeiuk&#34;&gt;The youtube video here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The next big GRUNT thing is to get CasperJs and PhantomJS to give me breakpoint screenshots automaticly.. ! (Low
+    priority)&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

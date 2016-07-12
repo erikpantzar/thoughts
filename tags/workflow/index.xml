@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workflow on epantzar - webdeveloper</title>
+    <link>http://erikpantzar.github.io/thoughts/tags/workflow/</link>
+    <description>Recent content in Workflow on epantzar - webdeveloper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Aug 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://erikpantzar.github.io/thoughts/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Version control &amp; Development enviroments</title>
+      <link>http://erikpantzar.github.io/thoughts/post/Dev-enviroments-and-being-a-developer/</link>
+      <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/Dev-enviroments-and-being-a-developer/</guid>
+      <description>
+
+&lt;h1 id=&#34;version-control-development-enviroments&#34;&gt;Version control &amp;amp; Development enviroments&lt;/h1&gt;
+
+&lt;h2 id=&#34;being-a-developer&#34;&gt;Being a developer&lt;/h2&gt;
+
+&lt;p&gt;&lt;span class=&#34;intro&#34;&gt;&amp;ldquo;Inhale&amp;hellip; and exhale. Relax and keep working.&amp;rdquo;
+Not really how it is to be a webdeveloper all the time. This post is about how to get more breathing room and make sure that your misstakes will not matter.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-first-step-to-give-yourself-breathing-room&#34;&gt;The first step to give yourself breathing room&lt;/h2&gt;
+
+&lt;p&gt;Version control; relax and let yourself experiment with diffrent files by branching out to a separate branch.
+Git checkout -b branchname&lt;/p&gt;
+
+&lt;h2 id=&#34;expanding-on-vc&#34;&gt;Expanding on VC&lt;/h2&gt;
+
+&lt;h3 id=&#34;services-and-branches&#34;&gt;Services and branches&lt;/h3&gt;
+
+&lt;p&gt;Have a service listen to your repo and set it up to listen for changes on  branches for changes and commits, and upon commits deploy to the server, being it production or live.&lt;/p&gt;
+
+&lt;h3 id=&#34;tags&#34;&gt;Tags&lt;/h3&gt;
+
+&lt;p&gt;A topic I&amp;rsquo;m not super enlightened in, are tags. Haven&amp;rsquo;t used tags in git at all. Wonder what it is meant to do.
+Listened to a podcast while writing this actually (web ahead) and in the episode i listened to they mention it, didn&amp;rsquo;t stick in my head though.&lt;/p&gt;
+
+&lt;p&gt;Take a listen yourself: &lt;a href=&#34;http://5by5.tv/webahead/79&#34;&gt;WebAhead episode 79&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;local-is-fast&#34;&gt;Local is fast&lt;/h2&gt;
+
+&lt;p&gt;Everybody should have their own development/production enviroment. VM or server at haven&amp;rsquo;t figured out yet, but something along those lines would be optimal for a safe and relaxed enviroment.&lt;/p&gt;
+
+&lt;h2 id=&#34;workflow-style-guide-driven-development&#34;&gt;Workflow: Style guide driven development&lt;/h2&gt;
+
+&lt;p&gt;Also a diffrent topic I recently read an article about, was working on the front-end straight into and from styleguides. What I think this would mean in practice, would be that from a concept/mockup you extract elements and develop them separately and put them and present them in a standalone enviroment to be expanded and prototyped upon and with. The elements would then be refined in the markup of the styleguide and eventually updated and iterated upon.&lt;/p&gt;
+
+&lt;h3 id=&#34;get-strapped&#34;&gt;Get strapped!&lt;/h3&gt;
+
+&lt;p&gt;Why I want to embrace this topic and kind of way of doing things, is because I want sites and apps; projects(!), to be built using kind of a framework. Every websites stylesheet should more or less be a bootstrap kind of framework, where all you have to do is add the diffrent classes to get the kind of component/element and behavior that you want.&lt;/p&gt;
+
+&lt;p&gt;The article meant that the work flow would mean working on the backend of things could be built simultaneously.
+However I think this approach would require a longer startup time to initiate.
+The benefits however would be the prototyping experience with the elements, and the OOP style of things.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://webuild.envato.com/blog/styleguide-driven-development/&#34;&gt;Article on styleguide driven development from the Envato blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EMACS is sexy</title>
+      <link>http://erikpantzar.github.io/thoughts/post/emcs-is-sexy/</link>
+      <pubDate>Thu, 03 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/emcs-is-sexy/</guid>
+      <description>
+
+&lt;h1 id=&#34;emacs-sexy&#34;&gt;Emacs.sexy ?&lt;/h1&gt;
+
+&lt;p&gt;Found a link to &lt;a href=&#34;http://emacs.sexy/&#34;&gt;emacs.sexy&lt;/a&gt; and read some stuff about it and now I&amp;rsquo;m sitting in emacs and writing blog posts in it.
+Have written a couple of commands on a piece of paper.&lt;/p&gt;
+
+&lt;p&gt;After getting some stuff done I need to get started on adding functionality and text highlighting to text and some kind of git connection.&lt;/p&gt;
+
+&lt;h2 id=&#34;coding-mailing-calendaring-playing-games-of-tetris&#34;&gt;Coding, Mailing, Calendaring &amp;amp; playing games of tetris&lt;/h2&gt;
+
+&lt;p&gt;For the future i need to get packages for mail, irc, calendar and the whole thing.
+Right now im missing syntax-highlightning and some way to change sizes of windows.&lt;/p&gt;
+
+&lt;h2 id=&#34;tough-stuff-glossary&#34;&gt;Tough stuff, glossary&lt;/h2&gt;
+
+&lt;p&gt;I got some binds written down for:
+- Buffer
+- Window management
+- File navigation, in file, rows and text
+- Text manipulation (C-u 8 *)
+- Deletion of text etc&lt;/p&gt;
+
+&lt;p&gt;And that is where i am right now.&lt;/p&gt;
+
+&lt;h2 id=&#34;gnus-for-gmail&#34;&gt;GNUS for Gmail&lt;/h2&gt;
+
+&lt;p&gt;Okay.. so..  I&amp;rsquo;ve been trying to get my gmail to be able to feed to my emacs editor.. For about 40minutes&amp;hellip; :)&lt;/p&gt;
+
+&lt;h4 id=&#34;update-00-58-14-july-2014&#34;&gt;Update: 00:58 14 July 2014&lt;/h4&gt;
+
+&lt;h4 id=&#34;so-emacs-preinstalled-on-osx-was-version-22-spent-5-hours-in-it&#34;&gt;So.. Emacs preinstalled on osx was version 22, spent 5 hours in it.&lt;/h4&gt;
+
+&lt;p&gt;That from starting out with downloading the latest version, but assuming it would be the version run when running it from terminal (iterm), i was wrong.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-2-a-week-later&#34;&gt;Update #2 A week later&lt;/h4&gt;
+
+&lt;p&gt;Haven&amp;rsquo;t really bothered to get deeper into emacs, I think I am at just browsing files. and im not satisfied with the functionallity i&amp;rsquo;ve been able to achieve with the time I put in.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-3-first-week-at-work&#34;&gt;Update #3 First week at work&lt;/h4&gt;
+
+&lt;p&gt;Have really abandomned emacs for now. Reverted back to Sublime text. It really is much easier for now!&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://xor.lonnen.com/2013/01/04/emacs-on-osx.html&#34;&gt;Setting up emacs on osx tips&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Filemanager on Unix</title>
+      <link>http://erikpantzar.github.io/thoughts/post/filemanager-on-unix/</link>
+      <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/filemanager-on-unix/</guid>
+      <description>
+
+&lt;h1 id=&#34;ssh-in-and-out-of-a-server&#34;&gt;SSH in and out of a server&lt;/h1&gt;
+
+&lt;p&gt;The thing I was asked to perform was to change a template in a wordpress theme. This wordpress theme was hosted in (to me) a rather unorthodox enviroment.&lt;/p&gt;
+
+&lt;p&gt;I got the IP-adress and root user credentials.&lt;/p&gt;
+
+&lt;p&gt;So here&amp;rsquo;s what I did to acess the server and actually find where the actual files for the site was located:&lt;/p&gt;
+
+&lt;h2 id=&#34;ssh-into-the-server-and-find-the-site&#34;&gt;SSH into the server and find the site&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;SSH into the server:
+## then i got prompted for password (entered it ofc)
+## USE:
+ssh &amp;lt;username&amp;gt;@&amp;lt;server&amp;gt;
+$ ssh root@12.34.56.78.90
+
+## Next Task: Find where the site is placed
+## since it is a wordpress site I know
+## there would be a directory called &#39;wp-content&#39;
+$ locate wp-content
+
+## took me to the wp-content folder
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;get-access-to-the-files-and-change-them&#34;&gt;Get access to the files and change them&lt;/h2&gt;
+
+&lt;p&gt;I have worked with linux guys one time before, and knew it is a bit tricky to actually change the files and content wich are hosted in this fashion.&lt;/p&gt;
+
+&lt;p&gt;In the past you had to copy the files you wanted to access outside of the server to a users home directory and then sftp/ftp the files from there.&lt;/p&gt;
+
+&lt;h2 id=&#34;find-your-transfer-window&#34;&gt;Find your transfer window&lt;/h2&gt;
+
+&lt;p&gt;So to find where I could copy/move the files that I wanted to change, i accessed the same IP with filezilla (the same IP) with SFTP settings.&lt;/p&gt;
+
+&lt;p&gt;I then found a folder where I could put my files. To find the location I got to with filezilla, I created a folder and named it &amp;lsquo;temporary_transfer&amp;rsquo;. With having done this I knew a folder I could search for in order to get the location.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ locate temporary_transfer
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now all I had to do was copy the wordpress theme files to the temporary location.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;## 1. Get to the themes folder for the Wordpress site
+$ cd wordpress/wp-content/themes/
+
+## 2. Copy wordpress theme to transfer location
+$ cp -R &amp;lt;THEMENAME&amp;gt; /temporary_transfer/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;finishing-up&#34;&gt;Finishing up&lt;/h2&gt;
+
+&lt;p&gt;Then I downloaded and did what I wanted with the theme files, then uploaded them to the transfer window.&lt;/p&gt;
+
+&lt;p&gt;From here you copy the files from the window back to the theme location on the server.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd transfer_window
+$ cp -R &amp;lt;EDITED_THEME&amp;gt; /wordpress/wp-content/themes/
+
+## Keep hustling
+## Hustle hard
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;related-links&#34;&gt;Related links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kb.mediatemple.net/questions/1599/&#34;&gt;How to use SSH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.linfo.org/cp.html&#34;&gt;How to copy things in linux enviroment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Finally got Jekyll to work</title>
+      <link>http://erikpantzar.github.io/thoughts/post/Finally-got-jekyll/</link>
+      <pubDate>Mon, 03 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/Finally-got-jekyll/</guid>
+      <description>
+
+&lt;h1 id=&#34;finally-got-jekyll-to-work&#34;&gt;Finally got Jekyll to work&lt;/h1&gt;
+
+&lt;p class=intro&gt;It all started when I read my own post on my former WordPress-site about Grunt, that on the site the
+article
+was
+on, there was also a post about getting into Jekyll and later on getting into Github Pages. Since I&#39;m a big fan of both github and really into these static site generators I decided to have a go.&lt;/p&gt;
+
+&lt;h2 id=&#34;it-begins&#34;&gt;It begins&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m quite new to grunt and task-running things through Javascript, but I&amp;rsquo;m very fond of it, and want to use it on everything.&lt;/p&gt;
+
+&lt;h2 id=&#34;github-gogo&#34;&gt;Github gogo&lt;/h2&gt;
+
+&lt;p&gt;After I got my github.io domain working, I decided to drop the old site and the hosting that is hosted on. Transferring files over FTP is so not me (anymore).&lt;/p&gt;
+
+&lt;p&gt;I really like to redesign things whilst producing content in the form of blogposts; So the idea of having it directly on Github surely wasn&amp;rsquo;t hard to start working towards.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

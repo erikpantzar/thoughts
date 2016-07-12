@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Future on epantzar - webdeveloper</title>
+    <link>http://erikpantzar.github.io/thoughts/tags/future/</link>
+    <description>Recent content in Future on epantzar - webdeveloper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 May 2016 09:51:52 +0200</lastBuildDate>
+    <atom:link href="http://erikpantzar.github.io/thoughts/tags/future/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The next steps 2016</title>
+      <link>http://erikpantzar.github.io/thoughts/post/the-next-step/</link>
+      <pubDate>Fri, 27 May 2016 09:51:52 +0200</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/the-next-step/</guid>
+      <description>
+
+&lt;h1 id=&#34;the-next-steps-2016&#34;&gt;The next steps 2016&lt;/h1&gt;
+
+&lt;p&gt;Technology really has progressed far. We can with just Javascript build native mobile and desktop applications. We can build frontend AND backend!&lt;/p&gt;
+
+&lt;h2 id=&#34;pre&#34;&gt;Pre&lt;/h2&gt;
+
+&lt;p&gt;In 2012 I was building responsive websites and interactivity with the jQuery library, adding eventlisteners, toggling classes, looping through elements, measuring, slideing and animation; Mostly DOM-manipulation. I was testing out all the CSS-preprocessors, Stylus, Less, Sass and then stuck with Sass(SCSS).&lt;/p&gt;
+
+&lt;p&gt;The workflow was just editing .PHP or .ASPX files and reloading when you updated your scripts or styles. The scripts were almost manually concatted and versioned by hand in my world. Not until I came across task-runners such as Grunt my process and workflow was just like that.&lt;/p&gt;
+
+&lt;p&gt;But with &lt;strong&gt;Grunt&lt;/strong&gt; alot changed actually, you no longer needed OS-dependant applications to process your Sass, nor did you need to manually bundle your javascripts. Taskrunners even handled image optimizations.&lt;/p&gt;
+
+&lt;p&gt;Parallel to my universe and bubble, &lt;strong&gt;web-apps&lt;/strong&gt; were appearing and exploding, native apps were already a thing, but were mostly for Java or C developers. To me it was really appealing, doing nice transitions between views, saving data in the client dynamically loading in views and not even having to reload the page to get to the next page(!).&lt;/p&gt;
+
+&lt;p&gt;This was the time when Angular reached my knowledge.&lt;/p&gt;
+
+&lt;h2 id=&#34;tech-order-js-reign-over-all&#34;&gt;Tech order &amp;ldquo;JS reign over all&amp;rdquo;&lt;/h2&gt;
+
+&lt;h3 id=&#34;part-1&#34;&gt;Part 1&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;jquery&lt;/li&gt;
+&lt;li&gt;bower&lt;/li&gt;
+&lt;li&gt;bootstrap, ui frameworks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;part-2&#34;&gt;Part 2&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;node, npm&lt;/li&gt;
+&lt;li&gt;sass, less&lt;/li&gt;
+&lt;li&gt;grunt, gulp&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;part-3&#34;&gt;Part 3&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;atom&lt;/li&gt;
+&lt;li&gt;webback&lt;/li&gt;
+&lt;li&gt;commonjs, requirejs&lt;/li&gt;
+&lt;li&gt;angular, react, redux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;part-4&#34;&gt;Part 4&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ng2, JSX, react&lt;/li&gt;
+&lt;li&gt;es6, typescript, nativescript&lt;/li&gt;
+&lt;li&gt;electron, ionic, cordova, phonegap&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;future-possibilities&#34;&gt;Future / Possibilities&lt;/h2&gt;
+
+&lt;p&gt;Greater experiences in apps, desktop, mobile and webb.
+Cross OS, Cross plattform.&lt;/p&gt;
+
+&lt;h2 id=&#34;weakpoints-dangers&#34;&gt;Weakpoints / Dangers&lt;/h2&gt;
+
+&lt;p&gt;To big scopes, bad quality, new tech.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-get-there-invest&#34;&gt;How to get there / Invest&lt;/h2&gt;
+
+&lt;p&gt;Balance legacy tech with research and challenges in the new tech.&lt;/p&gt;
+
+&lt;h2 id=&#34;when-there-profit&#34;&gt;When there / Profit&lt;/h2&gt;
+
+&lt;p&gt;b2b apps, b2c webb, build plattforms and tools for companies.&lt;/p&gt;
+
+&lt;h2 id=&#34;future-possibiities&#34;&gt;Future / Possibiities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;full suite of applications&lt;/li&gt;
+&lt;li&gt;ecommerce, webapp&lt;/li&gt;
+&lt;li&gt;mobile app&lt;/li&gt;
+&lt;li&gt;desktop app&lt;/li&gt;
+&lt;li&gt;plattforms&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;products-and-services&#34;&gt;Products and services&lt;/h3&gt;
+
+&lt;p&gt;With the technologies beeing at the state they are, with the web technologies we have at our hands the possibilities of servivices we as webworkers can supply. We can, with technology we used to use for building interactive websites, build and compile native mobile apps and now even &lt;strong&gt;cross plattform&lt;/strong&gt; desktop applications!&lt;/p&gt;
+
+&lt;h3 id=&#34;the-commerce-scenario&#34;&gt;The commerce scenario&lt;/h3&gt;
+
+&lt;p&gt;The first and foremost communication might still be in the shape of a website with of social media interaction, SEO optimized content, landing pages and campaign content. Supported by an app for loyal customers, with all their preferences filled in, when and where they work, their needs and patterns saved and understood in order to serve them their goods/services in a fashion adapted to just them.&lt;/p&gt;
+
+&lt;p&gt;Other sorts of customers, &lt;strong&gt;B2B&lt;/strong&gt;, or maybe even internal personel might have advantage of having a desktop application in wich they control sales, analyze, setup reccurring orders or &lt;strong&gt;internal education&lt;/strong&gt; plattform.&lt;/p&gt;
+
+&lt;h3 id=&#34;plattform&#34;&gt;Plattform&lt;/h3&gt;
+
+&lt;p&gt;Maybe just serving customers and companies these hands on applications (apps for web, mobile, desktop) might not be sufficent. Maybe the thing to do is look at it from a further distance, to see that the need actually is some kind of plattform for navigating all these applications, services and portals of information.&lt;/p&gt;
+
+&lt;h3 id=&#34;part-1-1&#34;&gt;Part 1&lt;/h3&gt;
+
+&lt;p&gt;Built websites and interactivit with jQuery as DOM-manipulation-lib. Used some jQuery plugins to do sliders and things like that. If ever, we used bower to keep track and install dependancies. Most of the time there were smaller projects where only a few people who were introduced to the project, so keeping track was not that much of a task at this time.&lt;/p&gt;
+
+&lt;h3 id=&#34;part-2-1&#34;&gt;Part 2&lt;/h3&gt;
+
+&lt;p&gt;Tooling was stepping up, we could use grunt instead of some &amp;ldquo;webkit&amp;rdquo; GUI to process and compile our Sass into CSS, bundle our javacripts etc.&lt;/p&gt;
+
+&lt;p&gt;Building web got a bit more complex while also easier to be productive, you had to be a bit more devops than before (if noone else where setting up your tasks etc).&lt;/p&gt;
+
+&lt;p&gt;Standards and best practices were popping up on how to use Grunt/Gulp and your bundling and compiling, also how to not setup your Sass projects for chaos.&lt;/p&gt;
+
+&lt;h3 id=&#34;part-3-1&#34;&gt;Part 3&lt;/h3&gt;
+
+&lt;p&gt;Once again tech improved tooling and took everything a step forward.&lt;/p&gt;
+
+&lt;p&gt;Atom, the open source editor, built with web technologies (HTML, CSS and javascript). Shortly after Atom was announced, other similiar editors popped up, like VisualStudio Code (also Microsoft got their whole open source plattform independant drive going/started in this time)&lt;/p&gt;
+
+&lt;p&gt;CommonJS, RequireJS, the module loaders of javascript. With the taskrunners around, using a module loader for your javascripts is a breeze. Writing and maintaining small modules make projects easier to maintain and also build. Re-using modules to quickly get going is also a great feature of this module thinking.&lt;/p&gt;
+
+&lt;p&gt;In this same chunk comes Webpack, a taskrunner that came in the same wave as React and JSX. Webpack enables some even further abstracting, and one feature that caught my eye was defining payloads. In webpack you can define packages, packages that contain just the parts you want them to contain in form of CSS and Javascript. Wich is crucial if you want to deliver assets of an entire app/website while still maintaining performance and saving bandwidth.&lt;/p&gt;
+
+&lt;p&gt;I also want to mention CriticalCSS as a thing. CritialCSS is a thing where you embedd the CSS needed to paint &amp;ldquo;the fold&amp;rdquo; right in the head. Then asynchronous loading the rest of the CSS. With this is mind, and as a goal, you need to setup your tooling in a way to help you from going insane with manual labour.&lt;/p&gt;
+
+&lt;p&gt;Angular in this segment is a pretty mainstream framework, stable and aknowledge as a real thing and as a viable tool in building websites. Google at this time had alot of their own services built in Angular.&lt;/p&gt;
+
+&lt;p&gt;Shortly after Angulars entry to the scene, the React library came and was a bit more lightweight, not serving the entire suite of features Angular did or does but while being alot more performant while giving another kind of architecture to work with it started growing.&lt;/p&gt;
+
+&lt;h3 id=&#34;webcomponent-specs&#34;&gt;Webcomponent specs&lt;/h3&gt;
+
+&lt;p&gt;With the birth and actualization of Angular and React I can just imagine they were born out of the spec for webcomponents. Angular say themselfs that Angular is an extension of HTML, wich webcomponents is supposed to be. And also in Angular, you kind of can build you own webcomponents.&lt;/p&gt;
+
+&lt;h3 id=&#34;others-honorable-mentions&#34;&gt;Others &amp;ldquo;honorable mentions&amp;rdquo;&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.w3.org/TR/service-workers/&#34;&gt;Service workers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w3c.github.io/push-api/&#34;&gt;Push API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://notifications.spec.whatwg.org/&#34;&gt;Notifications API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;part-4-1&#34;&gt;Part 4&lt;/h3&gt;
+
+&lt;p&gt;With the progress of the &lt;a href=&#34;https://tc39.github.io/ecma262/2016/&#34;&gt;EcmaScript specs, ES2015&lt;/a&gt; (also &amp;lsquo;ES6&amp;rsquo;) so have the library and frameworks taken advantage or prepared their stuff for the new upcomming standards and needs for tooling.&lt;/p&gt;
+
+&lt;p&gt;Angular have gone from 1.x to re-doing all of their architecture in a 2.x version wich in time of writing recently became RC. &lt;a href=&#34;https://angular.io/&#34;&gt;Angular 2&lt;/a&gt; is writting with the support of all kinds of languages (or flavors of javascript)(: TypeScript, ES5/ES2015 &amp;amp; Dart).
+Other who have seen the advances Javascript has taken in the webcommunity, they wanted to fix the things that were missing in Javascript, &amp;ldquo;so naturally&amp;rdquo; (:D) they made the superset of EcmaScript (features who reach stage 3 are implemented) and added the ability to add types. Today they call it &lt;a href=&#34;http://www.typescriptlang.org/&#34;&gt;TypeScript&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;With the entry of React to the community they also brought &lt;a href=&#34;https://facebook.github.io/jsx/&#34;&gt;JSX&lt;/a&gt; to the world.&lt;/p&gt;
+
+&lt;p&gt;Angular also have the same kind of &lt;strong&gt;&amp;ldquo;embed the logics and templates together&amp;rdquo;&lt;/strong&gt; &lt;a href=&#34;https://gist.github.com/erikpantzar/f1c0620011c17c5cb0d021bcc4a9ca67&#34;&gt;example ng2 component from their tutorial&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Transpilers (&lt;a href=&#34;http://babeljs.io/&#34;&gt;babel, babel, babel&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;JSX, ng2 inline templates&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;webapps-apps-and-desktop-applications&#34;&gt;Webapps, Apps and desktop Applications&lt;/h3&gt;
+
+&lt;p&gt;With Javascript you can build alot of diffrent things, and in this last part of Part4 I want to tell you that you can actually build desktop apps with Javascript.
+With &lt;a href=&#34;http://electron.atom.io/&#34;&gt;Electron&lt;/a&gt; (atom.io project) you can build desktop applications with Javascript.&lt;/p&gt;
+
+&lt;p&gt;The part about apps in javascript, you can build mobile apps with &lt;a href=&#34;http://ionicframework.com/&#34;&gt;Ionic framework&lt;/a&gt; (wich is tightly coupled with Angular(1.x)). You can also use Cordova or &lt;a href=&#34;http://phonegap.com/&#34;&gt;PhoneGap&lt;/a&gt; to get a mobile app going with Javascript.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Of course there are some boilerplating involved with these frameworks and SDKs, wich I will get to in the continuance of the post.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;future-possibiities-1&#34;&gt;Future / Possibiities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;full suite of applications&lt;/li&gt;
+&lt;li&gt;ecommerce, webapp&lt;/li&gt;
+&lt;li&gt;mobile app&lt;/li&gt;
+&lt;li&gt;desktop app&lt;/li&gt;
+&lt;li&gt;plattforms&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;products-and-services-1&#34;&gt;Products and services&lt;/h3&gt;
+
+&lt;p&gt;With the technologies beeing at the state they are, with the web technologies we have at our hands the possibilities of servivices we as webworkers can supply. We can, with technology we used to use for building interactive websites, build and compile native mobile apps and now even &lt;strong&gt;cross plattform&lt;/strong&gt; desktop applications!&lt;/p&gt;
+
+&lt;h3 id=&#34;the-commerce-scenario-1&#34;&gt;The commerce scenario&lt;/h3&gt;
+
+&lt;p&gt;The first and foremost communication might still be in the shape of a website with of social media interaction, SEO optimized content, landing pages and campaign content. Supported by an app for loyal customers, with all their preferences filled in, when and where they work, their needs and patterns saved and understood in order to serve them their goods/services in a fashion adapted to just them.&lt;/p&gt;
+
+&lt;p&gt;Other sorts of customers, &lt;strong&gt;B2B&lt;/strong&gt;, or maybe even internal personel might have advantage of having a desktop application in wich they control sales, analyze, setup reccurring orders or &lt;strong&gt;internal education&lt;/strong&gt; plattform.&lt;/p&gt;
+
+&lt;h3 id=&#34;plattform-1&#34;&gt;Plattform&lt;/h3&gt;
+
+&lt;p&gt;Maybe just serving customers and companies these hands on applications (apps for web, mobile, desktop) might not be sufficent. Maybe the thing to do is look at it from a further distance, to see that the need actually is some kind of plattform for navigating all these applications, services and portals of information.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-get-to-there-investment&#34;&gt;How to get to there? Investment&lt;/h2&gt;
+
+&lt;p&gt;In order to make money today, serving todays customers while also going towards the goal of learning and using the next steps technology we need some kind of balance.&lt;/p&gt;
+
+&lt;p&gt;To me, the cost of not jumping on the train of what is to come means that either I&amp;rsquo;m useless or I am working at a company using second tier technology. Using second tier technologoy, serving second tier products means that new talent will not show up, customers will have second tier products sold to them.&lt;/p&gt;
+
+&lt;p&gt;Also as I know of these technologies, I cannot myself jump on and just add them to my repertoar, I need to focus on some parts, some toolings and technologies. And you can&amp;rsquo;t either as a successfull living person, with a balanced life with friends, work and exercise also have a fulltime study of new standards and technologies.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;The cost is too damn high!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;I have in the past, done research and studied and learnt technologies, tools etc by myself, but today, the price is too high, I cannot afford to spend the same time researching and learning outside of work as I used to. Not just because of my family part, but because today I have greater understanding of technologies, that it is too hard, and too much to choose and learn from, that I need help. I want that help to be where the rewards will be reckt.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-plan&#34;&gt;The plan&lt;/h3&gt;
+
+&lt;p&gt;In order to keep knowledge high and making already hired co-workers learn these new technologies, we need to balance their days and hours so that we all make progress in current and new technologies.&lt;/p&gt;
+
+&lt;h4 id=&#34;new-and-old&#34;&gt;New and old&lt;/h4&gt;
+
+&lt;p&gt;Doing prototypes and having assigned lab projects that you might present and demo to fellow employees. Make an event, make a compettition, or just assign a group to solve a problem using new technologies, make them present the solution and also what they woulld have wanted to be diffrent or features that they were missing in the tooling or plattform.&lt;/p&gt;
+
+&lt;p&gt;while learning new things it is also important to let people who aren&amp;rsquo;t familiar with current tech-stack catch up or improve in their current respective fields. Doing code reviews and presenting features and projects in the same fashion as with the new tech would not only improve their knowledge but also further fortify the methods for the new-tech demos.&lt;/p&gt;
+
+&lt;h2 id=&#34;when-there-profits&#34;&gt;When there, profits?&lt;/h2&gt;
+
+&lt;p&gt;Now we have methods and balance in the working enviroment, people are increasing knowledge in current and new tech while we are making money. We have a stronger workforce, happier workforce, more hireable workforce we need to take care of these new rockstars keep challenging them in ways to stimulate and keep them motivated and learning.&lt;/p&gt;
+
+&lt;p&gt;We have with all the technological progresses broadened and narrowed our services and products while having fun and learning together.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

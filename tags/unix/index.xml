@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unix on epantzar - webdeveloper</title>
+    <link>http://erikpantzar.github.io/thoughts/tags/unix/</link>
+    <description>Recent content in Unix on epantzar - webdeveloper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 10 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://erikpantzar.github.io/thoughts/tags/unix/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Filemanager on Unix</title>
+      <link>http://erikpantzar.github.io/thoughts/post/filemanager-on-unix/</link>
+      <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://erikpantzar.github.io/thoughts/post/filemanager-on-unix/</guid>
+      <description>
+
+&lt;h1 id=&#34;ssh-in-and-out-of-a-server&#34;&gt;SSH in and out of a server&lt;/h1&gt;
+
+&lt;p&gt;The thing I was asked to perform was to change a template in a wordpress theme. This wordpress theme was hosted in (to me) a rather unorthodox enviroment.&lt;/p&gt;
+
+&lt;p&gt;I got the IP-adress and root user credentials.&lt;/p&gt;
+
+&lt;p&gt;So here&amp;rsquo;s what I did to acess the server and actually find where the actual files for the site was located:&lt;/p&gt;
+
+&lt;h2 id=&#34;ssh-into-the-server-and-find-the-site&#34;&gt;SSH into the server and find the site&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;SSH into the server:
+## then i got prompted for password (entered it ofc)
+## USE:
+ssh &amp;lt;username&amp;gt;@&amp;lt;server&amp;gt;
+$ ssh root@12.34.56.78.90
+
+## Next Task: Find where the site is placed
+## since it is a wordpress site I know
+## there would be a directory called &#39;wp-content&#39;
+$ locate wp-content
+
+## took me to the wp-content folder
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;get-access-to-the-files-and-change-them&#34;&gt;Get access to the files and change them&lt;/h2&gt;
+
+&lt;p&gt;I have worked with linux guys one time before, and knew it is a bit tricky to actually change the files and content wich are hosted in this fashion.&lt;/p&gt;
+
+&lt;p&gt;In the past you had to copy the files you wanted to access outside of the server to a users home directory and then sftp/ftp the files from there.&lt;/p&gt;
+
+&lt;h2 id=&#34;find-your-transfer-window&#34;&gt;Find your transfer window&lt;/h2&gt;
+
+&lt;p&gt;So to find where I could copy/move the files that I wanted to change, i accessed the same IP with filezilla (the same IP) with SFTP settings.&lt;/p&gt;
+
+&lt;p&gt;I then found a folder where I could put my files. To find the location I got to with filezilla, I created a folder and named it &amp;lsquo;temporary_transfer&amp;rsquo;. With having done this I knew a folder I could search for in order to get the location.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ locate temporary_transfer
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now all I had to do was copy the wordpress theme files to the temporary location.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;## 1. Get to the themes folder for the Wordpress site
+$ cd wordpress/wp-content/themes/
+
+## 2. Copy wordpress theme to transfer location
+$ cp -R &amp;lt;THEMENAME&amp;gt; /temporary_transfer/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;finishing-up&#34;&gt;Finishing up&lt;/h2&gt;
+
+&lt;p&gt;Then I downloaded and did what I wanted with the theme files, then uploaded them to the transfer window.&lt;/p&gt;
+
+&lt;p&gt;From here you copy the files from the window back to the theme location on the server.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd transfer_window
+$ cp -R &amp;lt;EDITED_THEME&amp;gt; /wordpress/wp-content/themes/
+
+## Keep hustling
+## Hustle hard
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;related-links&#34;&gt;Related links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kb.mediatemple.net/questions/1599/&#34;&gt;How to use SSH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.linfo.org/cp.html&#34;&gt;How to copy things in linux enviroment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
