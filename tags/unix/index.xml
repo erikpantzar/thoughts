@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unix on epantzar - webdeveloper</title>
-    <link>http://erikpantzar.github.io/thoughts/tags/unix/</link>
+    <link>https://erikpantzar.github.io/thoughts/tags/unix/</link>
     <description>Recent content in Unix on epantzar - webdeveloper</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 10 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://erikpantzar.github.io/thoughts/tags/unix/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://erikpantzar.github.io/thoughts/tags/unix/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Filemanager on Unix</title>
-      <link>http://erikpantzar.github.io/thoughts/post/filemanager-on-unix/</link>
+      <link>https://erikpantzar.github.io/thoughts/post/filemanager-on-unix/</link>
       <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://erikpantzar.github.io/thoughts/post/filemanager-on-unix/</guid>
+      <guid>https://erikpantzar.github.io/thoughts/post/filemanager-on-unix/</guid>
       <description>
 
 &lt;h1 id=&#34;ssh-in-and-out-of-a-server&#34;&gt;SSH in and out of a server&lt;/h1&gt;

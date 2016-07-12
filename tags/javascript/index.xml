@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javascript on epantzar - webdeveloper</title>
-    <link>http://erikpantzar.github.io/thoughts/tags/javascript/</link>
+    <link>https://erikpantzar.github.io/thoughts/tags/javascript/</link>
     <description>Recent content in Javascript on epantzar - webdeveloper</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 27 May 2016 09:51:52 +0200</lastBuildDate>
-    <atom:link href="http://erikpantzar.github.io/thoughts/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://erikpantzar.github.io/thoughts/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The next steps 2016</title>
-      <link>http://erikpantzar.github.io/thoughts/post/the-next-step/</link>
+      <link>https://erikpantzar.github.io/thoughts/post/the-next-step/</link>
       <pubDate>Fri, 27 May 2016 09:51:52 +0200</pubDate>
       
-      <guid>http://erikpantzar.github.io/thoughts/post/the-next-step/</guid>
+      <guid>https://erikpantzar.github.io/thoughts/post/the-next-step/</guid>
       <description>
 
 &lt;h1 id=&#34;the-next-steps-2016&#34;&gt;The next steps 2016&lt;/h1&gt;
@@ -229,10 +229,10 @@ With &lt;a href=&#34;http://electron.atom.io/&#34;&gt;Electron&lt;/a&gt; (atom.i
     
     <item>
       <title>Fullstack mountain</title>
-      <link>http://erikpantzar.github.io/thoughts/post/fullstack-mountain/</link>
+      <link>https://erikpantzar.github.io/thoughts/post/fullstack-mountain/</link>
       <pubDate>Sun, 27 Dec 2015 18:48:20 +0100</pubDate>
       
-      <guid>http://erikpantzar.github.io/thoughts/post/fullstack-mountain/</guid>
+      <guid>https://erikpantzar.github.io/thoughts/post/fullstack-mountain/</guid>
       <description>
 
 &lt;h2 id=&#34;all-things-are-turning-javascript&#34;&gt;All things are turning Javascript&lt;/h2&gt;
@@ -318,10 +318,10 @@ frameworks like ng2 and React will make the ride a bit faster and hopefully smoo
     
     <item>
       <title>The new era</title>
-      <link>http://erikpantzar.github.io/thoughts/post/the-new-era/</link>
+      <link>https://erikpantzar.github.io/thoughts/post/the-new-era/</link>
       <pubDate>Sat, 26 Dec 2015 23:51:13 +0100</pubDate>
       
-      <guid>http://erikpantzar.github.io/thoughts/post/the-new-era/</guid>
+      <guid>https://erikpantzar.github.io/thoughts/post/the-new-era/</guid>
       <description>
 
 &lt;h1 id=&#34;the-new-era&#34;&gt;The New Era&lt;/h1&gt;
@@ -341,10 +341,10 @@ It is the very end of 2015, and alot has changed since my last post in 2014.
     
     <item>
       <title>Fullstack-dreams-still-true</title>
-      <link>http://erikpantzar.github.io/thoughts/post/fullstack-js-still-true/</link>
+      <link>https://erikpantzar.github.io/thoughts/post/fullstack-js-still-true/</link>
       <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://erikpantzar.github.io/thoughts/post/fullstack-js-still-true/</guid>
+      <guid>https://erikpantzar.github.io/thoughts/post/fullstack-js-still-true/</guid>
       <description>
 
 &lt;h1 id=&#34;fullstack-dreams-still-here&#34;&gt;Fullstack Dreams still here&lt;/h1&gt;
@@ -367,10 +367,10 @@ It is the very end of 2015, and alot has changed since my last post in 2014.
     
     <item>
       <title>Getting further w JS</title>
-      <link>http://erikpantzar.github.io/thoughts/post/Getting-further-Javascript/</link>
+      <link>https://erikpantzar.github.io/thoughts/post/Getting-further-Javascript/</link>
       <pubDate>Sat, 22 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://erikpantzar.github.io/thoughts/post/Getting-further-Javascript/</guid>
+      <guid>https://erikpantzar.github.io/thoughts/post/Getting-further-Javascript/</guid>
       <description>
 
 &lt;h1 id=&#34;getting-furter&#34;&gt;Getting furter&lt;/h1&gt;
@@ -410,16 +410,16 @@ var erik = new Player{
 
 &lt;p&gt;Completed the JS course to a full 100%&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://erikpantzar.github.io/thoughts/data/img/march/ca-js-100.jpg&#34; alt=&#34;My vanilla JS progress&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://erikpantzar.github.io/thoughts/data/img/march/ca-js-100.jpg&#34; alt=&#34;My vanilla JS progress&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Codeacamdey is addictive</title>
-      <link>http://erikpantzar.github.io/thoughts/post/Codeacademy-is-addictive/</link>
+      <link>https://erikpantzar.github.io/thoughts/post/Codeacademy-is-addictive/</link>
       <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://erikpantzar.github.io/thoughts/post/Codeacademy-is-addictive/</guid>
+      <guid>https://erikpantzar.github.io/thoughts/post/Codeacademy-is-addictive/</guid>
       <description>
 
 &lt;h1 id=&#34;codecademy-com-is-super-addictive&#34;&gt;Codecademy.com is super addictive&lt;/h1&gt;
@@ -442,10 +442,10 @@ Helped him with some of his tasks, then headed into my own account and kept on b
     
     <item>
       <title>Get grunting</title>
-      <link>http://erikpantzar.github.io/thoughts/post/get-grunting/</link>
+      <link>https://erikpantzar.github.io/thoughts/post/get-grunting/</link>
       <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://erikpantzar.github.io/thoughts/post/get-grunting/</guid>
+      <guid>https://erikpantzar.github.io/thoughts/post/get-grunting/</guid>
       <description>&lt;h1 class=&#34;title&#34;&gt;Get Grunting&lt;/h1&gt;
 
 &lt;p&gt;Have previously fought with getting Grunt working. Now around Christmas i found a blogg linking to this article: &lt;a href=&#34;http://24ways.org/2013/grunt-is-not-weird-and-hard/&#34;&gt;Grunt is not weird and hard&lt;/a&gt;.&lt;p&gt;

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Devops on epantzar - webdeveloper</title>
-    <link>http://erikpantzar.github.io/thoughts/tags/devops/</link>
+    <link>https://erikpantzar.github.io/thoughts/tags/devops/</link>
     <description>Recent content in Devops on epantzar - webdeveloper</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 03 Mar 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://erikpantzar.github.io/thoughts/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://erikpantzar.github.io/thoughts/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Finally got Jekyll to work</title>
-      <link>http://erikpantzar.github.io/thoughts/post/Finally-got-jekyll/</link>
+      <link>https://erikpantzar.github.io/thoughts/post/Finally-got-jekyll/</link>
       <pubDate>Mon, 03 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://erikpantzar.github.io/thoughts/post/Finally-got-jekyll/</guid>
+      <guid>https://erikpantzar.github.io/thoughts/post/Finally-got-jekyll/</guid>
       <description>
 
 &lt;h1 id=&#34;finally-got-jekyll-to-work&#34;&gt;Finally got Jekyll to work&lt;/h1&gt;
@@ -37,10 +37,10 @@ on, there was also a post about getting into Jekyll and later on getting into Gi
     
     <item>
       <title>Get grunting</title>
-      <link>http://erikpantzar.github.io/thoughts/post/get-grunting/</link>
+      <link>https://erikpantzar.github.io/thoughts/post/get-grunting/</link>
       <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://erikpantzar.github.io/thoughts/post/get-grunting/</guid>
+      <guid>https://erikpantzar.github.io/thoughts/post/get-grunting/</guid>
       <description>&lt;h1 class=&#34;title&#34;&gt;Get Grunting&lt;/h1&gt;
 
 &lt;p&gt;Have previously fought with getting Grunt working. Now around Christmas i found a blogg linking to this article: &lt;a href=&#34;http://24ways.org/2013/grunt-is-not-weird-and-hard/&#34;&gt;Grunt is not weird and hard&lt;/a&gt;.&lt;p&gt;
