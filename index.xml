@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>epantzar - webdeveloper</title>
-    <link>https://erikpantzar.github.io/thoughts/</link>
+    <link>http://epantzar.se/thoughts/</link>
     <description>Recent content on epantzar - webdeveloper</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 27 May 2016 09:51:52 +0200</lastBuildDate>
-    <atom:link href="https://erikpantzar.github.io/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://epantzar.se/thoughts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The next steps 2016</title>
-      <link>https://erikpantzar.github.io/thoughts/the-next-step/</link>
+      <link>http://epantzar.se/thoughts/the-next-step/</link>
       <pubDate>Fri, 27 May 2016 09:51:52 +0200</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/the-next-step/</guid>
+      <guid>http://epantzar.se/thoughts/the-next-step/</guid>
       <description>
 
 &lt;h1 id=&#34;the-next-steps-2016&#34;&gt;The next steps 2016&lt;/h1&gt;
@@ -229,10 +229,10 @@ With &lt;a href=&#34;http://electron.atom.io/&#34;&gt;Electron&lt;/a&gt; (atom.i
     
     <item>
       <title>A small app in progress</title>
-      <link>https://erikpantzar.github.io/thoughts/a_small_app_in_progress/</link>
+      <link>http://epantzar.se/thoughts/a_small_app_in_progress/</link>
       <pubDate>Thu, 21 Jan 2016 01:00:47 +0100</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/a_small_app_in_progress/</guid>
+      <guid>http://epantzar.se/thoughts/a_small_app_in_progress/</guid>
       <description>
 
 &lt;p&gt;Now i basically know how to deploy to heroku (and they got a mongodb labs addon, so got db stuff &amp;ldquo;ok&amp;rdquo;) so now I know where and how to deploy the app! Now I just gotta get the steps left to cleared and a bit knowledge so that we can start producing the application!!&lt;/p&gt;
@@ -265,10 +265,10 @@ The plan is to build a backend api sooo&amp;hellip; this link will be usefull i 
     
     <item>
       <title>Fullstack mountain</title>
-      <link>https://erikpantzar.github.io/thoughts/fullstack-mountain/</link>
+      <link>http://epantzar.se/thoughts/fullstack-mountain/</link>
       <pubDate>Sun, 27 Dec 2015 18:48:20 +0100</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/fullstack-mountain/</guid>
+      <guid>http://epantzar.se/thoughts/fullstack-mountain/</guid>
       <description>
 
 &lt;h2 id=&#34;all-things-are-turning-javascript&#34;&gt;All things are turning Javascript&lt;/h2&gt;
@@ -354,10 +354,10 @@ frameworks like ng2 and React will make the ride a bit faster and hopefully smoo
     
     <item>
       <title>The new era</title>
-      <link>https://erikpantzar.github.io/thoughts/the-new-era/</link>
+      <link>http://epantzar.se/thoughts/the-new-era/</link>
       <pubDate>Sat, 26 Dec 2015 23:51:13 +0100</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/the-new-era/</guid>
+      <guid>http://epantzar.se/thoughts/the-new-era/</guid>
       <description>
 
 &lt;h1 id=&#34;the-new-era&#34;&gt;The New Era&lt;/h1&gt;
@@ -377,10 +377,10 @@ It is the very end of 2015, and alot has changed since my last post in 2014.
     
     <item>
       <title>Version control &amp; Development enviroments</title>
-      <link>https://erikpantzar.github.io/thoughts/Dev-enviroments-and-being-a-developer/</link>
+      <link>http://epantzar.se/thoughts/Dev-enviroments-and-being-a-developer/</link>
       <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/Dev-enviroments-and-being-a-developer/</guid>
+      <guid>http://epantzar.se/thoughts/Dev-enviroments-and-being-a-developer/</guid>
       <description>
 
 &lt;h1 id=&#34;version-control-development-enviroments&#34;&gt;Version control &amp;amp; Development enviroments&lt;/h1&gt;
@@ -430,10 +430,10 @@ The benefits however would be the prototyping experience with the elements, and 
     
     <item>
       <title>EMACS is sexy</title>
-      <link>https://erikpantzar.github.io/thoughts/emcs-is-sexy/</link>
+      <link>http://epantzar.se/thoughts/emcs-is-sexy/</link>
       <pubDate>Thu, 03 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/emcs-is-sexy/</guid>
+      <guid>http://epantzar.se/thoughts/emcs-is-sexy/</guid>
       <description>
 
 &lt;h1 id=&#34;emacs-sexy&#34;&gt;Emacs.sexy ?&lt;/h1&gt;
@@ -487,10 +487,10 @@ Right now im missing syntax-highlightning and some way to change sizes of window
     
     <item>
       <title>Fullstack dream still alive</title>
-      <link>https://erikpantzar.github.io/thoughts/fullstack-js-still-true/</link>
+      <link>http://epantzar.se/thoughts/fullstack-js-still-true/</link>
       <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/fullstack-js-still-true/</guid>
+      <guid>http://epantzar.se/thoughts/fullstack-js-still-true/</guid>
       <description>
 
 &lt;h1 id=&#34;fullstack-dreams-still-here&#34;&gt;Fullstack Dreams still here&lt;/h1&gt;
@@ -513,10 +513,10 @@ Right now im missing syntax-highlightning and some way to change sizes of window
     
     <item>
       <title>Github pages and Jekyll</title>
-      <link>https://erikpantzar.github.io/thoughts/Ultimate-blog-experience/</link>
+      <link>http://epantzar.se/thoughts/Ultimate-blog-experience/</link>
       <pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/Ultimate-blog-experience/</guid>
+      <guid>http://epantzar.se/thoughts/Ultimate-blog-experience/</guid>
       <description>
 
 &lt;h1 id=&#34;ultimate-blog-experience&#34;&gt;Ultimate blog experience&lt;/h1&gt;
@@ -578,10 +578,10 @@ In the meanwhile in my day to day work, a lot of WP projects were done, so the b
     
     <item>
       <title>Filemanager on Unix</title>
-      <link>https://erikpantzar.github.io/thoughts/filemanager-on-unix/</link>
+      <link>http://epantzar.se/thoughts/filemanager-on-unix/</link>
       <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/filemanager-on-unix/</guid>
+      <guid>http://epantzar.se/thoughts/filemanager-on-unix/</guid>
       <description>
 
 &lt;h1 id=&#34;ssh-in-and-out-of-a-server&#34;&gt;SSH in and out of a server&lt;/h1&gt;
@@ -658,10 +658,10 @@ $ cp -R &amp;lt;EDITED_THEME&amp;gt; /wordpress/wp-content/themes/
     
     <item>
       <title>Getting further w JS</title>
-      <link>https://erikpantzar.github.io/thoughts/Getting-further-Javascript/</link>
+      <link>http://epantzar.se/thoughts/Getting-further-Javascript/</link>
       <pubDate>Sat, 22 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/Getting-further-Javascript/</guid>
+      <guid>http://epantzar.se/thoughts/Getting-further-Javascript/</guid>
       <description>
 
 &lt;h1 id=&#34;getting-furter&#34;&gt;Getting furter&lt;/h1&gt;
@@ -701,16 +701,16 @@ var erik = new Player{
 
 &lt;p&gt;Completed the JS course to a full 100%&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://erikpantzar.github.io/thoughts/data/img/march/ca-js-100.jpg&#34; alt=&#34;My vanilla JS progress&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://epantzar.se/thoughts/data/img/march/ca-js-100.jpg&#34; alt=&#34;My vanilla JS progress&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Codeacamdey is addictive</title>
-      <link>https://erikpantzar.github.io/thoughts/Codeacademy-is-addictive/</link>
+      <link>http://epantzar.se/thoughts/Codeacademy-is-addictive/</link>
       <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/Codeacademy-is-addictive/</guid>
+      <guid>http://epantzar.se/thoughts/Codeacademy-is-addictive/</guid>
       <description>
 
 &lt;h1 id=&#34;codecademy-com-is-super-addictive&#34;&gt;Codecademy.com is super addictive&lt;/h1&gt;
@@ -733,10 +733,10 @@ Helped him with some of his tasks, then headed into my own account and kept on b
     
     <item>
       <title>Finally got Jekyll to work</title>
-      <link>https://erikpantzar.github.io/thoughts/Finally-got-jekyll/</link>
+      <link>http://epantzar.se/thoughts/Finally-got-jekyll/</link>
       <pubDate>Mon, 03 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/Finally-got-jekyll/</guid>
+      <guid>http://epantzar.se/thoughts/Finally-got-jekyll/</guid>
       <description>
 
 &lt;h1 id=&#34;finally-got-jekyll-to-work&#34;&gt;Finally got Jekyll to work&lt;/h1&gt;
@@ -760,10 +760,10 @@ on, there was also a post about getting into Jekyll and later on getting into Gi
     
     <item>
       <title>Get grunting</title>
-      <link>https://erikpantzar.github.io/thoughts/get-grunting/</link>
+      <link>http://epantzar.se/thoughts/get-grunting/</link>
       <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/get-grunting/</guid>
+      <guid>http://epantzar.se/thoughts/get-grunting/</guid>
       <description>&lt;h1 class=&#34;title&#34;&gt;Get Grunting&lt;/h1&gt;
 
 &lt;p&gt;Have previously fought with getting Grunt working. Now around Christmas i found a blogg linking to this article: &lt;a href=&#34;http://24ways.org/2013/grunt-is-not-weird-and-hard/&#34;&gt;Grunt is not weird and hard&lt;/a&gt;.&lt;p&gt;

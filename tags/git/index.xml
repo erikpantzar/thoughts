@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git on epantzar - webdeveloper</title>
-    <link>https://erikpantzar.github.io/thoughts/tags/git/</link>
+    <link>http://epantzar.se/thoughts/tags/git/</link>
     <description>Recent content in Git on epantzar - webdeveloper</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 20 Aug 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://erikpantzar.github.io/thoughts/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://epantzar.se/thoughts/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Version control &amp; Development enviroments</title>
-      <link>https://erikpantzar.github.io/thoughts/Dev-enviroments-and-being-a-developer/</link>
+      <link>http://epantzar.se/thoughts/Dev-enviroments-and-being-a-developer/</link>
       <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/Dev-enviroments-and-being-a-developer/</guid>
+      <guid>http://epantzar.se/thoughts/Dev-enviroments-and-being-a-developer/</guid>
       <description>
 
 &lt;h1 id=&#34;version-control-development-enviroments&#34;&gt;Version control &amp;amp; Development enviroments&lt;/h1&gt;

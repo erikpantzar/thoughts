@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Angular on epantzar - webdeveloper</title>
-    <link>https://erikpantzar.github.io/thoughts/tags/angular/</link>
+    <link>http://epantzar.se/thoughts/tags/angular/</link>
     <description>Recent content in Angular on epantzar - webdeveloper</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 05 May 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://erikpantzar.github.io/thoughts/tags/angular/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://epantzar.se/thoughts/tags/angular/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fullstack dream still alive</title>
-      <link>https://erikpantzar.github.io/thoughts/fullstack-js-still-true/</link>
+      <link>http://epantzar.se/thoughts/fullstack-js-still-true/</link>
       <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/fullstack-js-still-true/</guid>
+      <guid>http://epantzar.se/thoughts/fullstack-js-still-true/</guid>
       <description>
 
 &lt;h1 id=&#34;fullstack-dreams-still-here&#34;&gt;Fullstack Dreams still here&lt;/h1&gt;

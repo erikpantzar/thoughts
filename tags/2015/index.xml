@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2015 on epantzar - webdeveloper</title>
-    <link>https://erikpantzar.github.io/thoughts/tags/2015/</link>
+    <link>http://epantzar.se/thoughts/tags/2015/</link>
     <description>Recent content in 2015 on epantzar - webdeveloper</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 27 Dec 2015 18:48:20 +0100</lastBuildDate>
-    <atom:link href="https://erikpantzar.github.io/thoughts/tags/2015/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://epantzar.se/thoughts/tags/2015/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fullstack mountain</title>
-      <link>https://erikpantzar.github.io/thoughts/fullstack-mountain/</link>
+      <link>http://epantzar.se/thoughts/fullstack-mountain/</link>
       <pubDate>Sun, 27 Dec 2015 18:48:20 +0100</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/fullstack-mountain/</guid>
+      <guid>http://epantzar.se/thoughts/fullstack-mountain/</guid>
       <description>
 
 &lt;h2 id=&#34;all-things-are-turning-javascript&#34;&gt;All things are turning Javascript&lt;/h2&gt;

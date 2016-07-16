@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workflow on epantzar - webdeveloper</title>
-    <link>https://erikpantzar.github.io/thoughts/tags/workflow/</link>
+    <link>http://epantzar.se/thoughts/tags/workflow/</link>
     <description>Recent content in Workflow on epantzar - webdeveloper</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 20 Aug 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://erikpantzar.github.io/thoughts/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://epantzar.se/thoughts/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Version control &amp; Development enviroments</title>
-      <link>https://erikpantzar.github.io/thoughts/Dev-enviroments-and-being-a-developer/</link>
+      <link>http://epantzar.se/thoughts/Dev-enviroments-and-being-a-developer/</link>
       <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/Dev-enviroments-and-being-a-developer/</guid>
+      <guid>http://epantzar.se/thoughts/Dev-enviroments-and-being-a-developer/</guid>
       <description>
 
 &lt;h1 id=&#34;version-control-development-enviroments&#34;&gt;Version control &amp;amp; Development enviroments&lt;/h1&gt;
@@ -63,10 +63,10 @@ The benefits however would be the prototyping experience with the elements, and 
     
     <item>
       <title>EMACS is sexy</title>
-      <link>https://erikpantzar.github.io/thoughts/emcs-is-sexy/</link>
+      <link>http://epantzar.se/thoughts/emcs-is-sexy/</link>
       <pubDate>Thu, 03 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/emcs-is-sexy/</guid>
+      <guid>http://epantzar.se/thoughts/emcs-is-sexy/</guid>
       <description>
 
 &lt;h1 id=&#34;emacs-sexy&#34;&gt;Emacs.sexy ?&lt;/h1&gt;
@@ -120,10 +120,10 @@ Right now im missing syntax-highlightning and some way to change sizes of window
     
     <item>
       <title>Filemanager on Unix</title>
-      <link>https://erikpantzar.github.io/thoughts/filemanager-on-unix/</link>
+      <link>http://epantzar.se/thoughts/filemanager-on-unix/</link>
       <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/filemanager-on-unix/</guid>
+      <guid>http://epantzar.se/thoughts/filemanager-on-unix/</guid>
       <description>
 
 &lt;h1 id=&#34;ssh-in-and-out-of-a-server&#34;&gt;SSH in and out of a server&lt;/h1&gt;
@@ -200,10 +200,10 @@ $ cp -R &amp;lt;EDITED_THEME&amp;gt; /wordpress/wp-content/themes/
     
     <item>
       <title>Finally got Jekyll to work</title>
-      <link>https://erikpantzar.github.io/thoughts/Finally-got-jekyll/</link>
+      <link>http://epantzar.se/thoughts/Finally-got-jekyll/</link>
       <pubDate>Mon, 03 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/Finally-got-jekyll/</guid>
+      <guid>http://epantzar.se/thoughts/Finally-got-jekyll/</guid>
       <description>
 
 &lt;h1 id=&#34;finally-got-jekyll-to-work&#34;&gt;Finally got Jekyll to work&lt;/h1&gt;
