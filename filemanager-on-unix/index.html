@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Filemanager on Unix by Epantzar</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="initial-scale=1">
+  
+  
+  <meta property="og:site_name" content="Filemanager on Unix"/>
+  <meta property="og:type" content="blog"/>
+
+  <meta property="og:url" content="https://erikpantzar.github.io/thoughts/filemanager-on-unix/" />
+  
+  <meta name="og:title" content="Filemanager on Unix" />
+  <meta name="og:description" content="" />
+  <meta baseUrl="https://erikpantzar.github.io/thoughts/">
+
+	<link rel="stylesheet" href="https://erikpantzar.github.io/thoughts/styles/site.css">
+
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-16269268-6', 'auto');
+	  ga('send', 'pageview');
+	</script>
+</head>
+<body>
+
+<a href="http://epantzar.se" class="js-navtoggler logo nav__logo">
+	E
+</a>
+
+<nav class="nav" id=nav>
+	<a class="nav__link" href="https://erikpantzar.github.io/thoughts">thoughts</a>
+</nav>
+
+
+<main class="mentor">
+    <article class="post">
+        
+            <div class="post__content container container--alone">
+                <p><date>10 Apr, 2014</date></p>
+                <p class="reading-time reading-time">2 minute(s) to read</p>
+                
+
+<h1 id="ssh-in-and-out-of-a-server">SSH in and out of a server</h1>
+
+<p>The thing I was asked to perform was to change a template in a wordpress theme. This wordpress theme was hosted in (to me) a rather unorthodox enviroment.</p>
+
+<p>I got the IP-adress and root user credentials.</p>
+
+<p>So here&rsquo;s what I did to acess the server and actually find where the actual files for the site was located:</p>
+
+<h2 id="ssh-into-the-server-and-find-the-site">SSH into the server and find the site</h2>
+
+<pre><code>SSH into the server:
+## then i got prompted for password (entered it ofc)
+## USE:
+ssh &lt;username&gt;@&lt;server&gt;
+$ ssh root@12.34.56.78.90
+
+## Next Task: Find where the site is placed
+## since it is a wordpress site I know
+## there would be a directory called 'wp-content'
+$ locate wp-content
+
+## took me to the wp-content folder
+</code></pre>
+
+<h2 id="get-access-to-the-files-and-change-them">Get access to the files and change them</h2>
+
+<p>I have worked with linux guys one time before, and knew it is a bit tricky to actually change the files and content wich are hosted in this fashion.</p>
+
+<p>In the past you had to copy the files you wanted to access outside of the server to a users home directory and then sftp/ftp the files from there.</p>
+
+<h2 id="find-your-transfer-window">Find your transfer window</h2>
+
+<p>So to find where I could copy/move the files that I wanted to change, i accessed the same IP with filezilla (the same IP) with SFTP settings.</p>
+
+<p>I then found a folder where I could put my files. To find the location I got to with filezilla, I created a folder and named it &lsquo;temporary_transfer&rsquo;. With having done this I knew a folder I could search for in order to get the location.</p>
+
+<pre><code>$ locate temporary_transfer
+</code></pre>
+
+<p>Now all I had to do was copy the wordpress theme files to the temporary location.</p>
+
+<pre><code>## 1. Get to the themes folder for the Wordpress site
+$ cd wordpress/wp-content/themes/
+
+## 2. Copy wordpress theme to transfer location
+$ cp -R &lt;THEMENAME&gt; /temporary_transfer/
+</code></pre>
+
+<h2 id="finishing-up">Finishing up</h2>
+
+<p>Then I downloaded and did what I wanted with the theme files, then uploaded them to the transfer window.</p>
+
+<p>From here you copy the files from the window back to the theme location on the server.</p>
+
+<pre><code>$ cd transfer_window
+$ cp -R &lt;EDITED_THEME&gt; /wordpress/wp-content/themes/
+
+## Keep hustling
+## Hustle hard
+</code></pre>
+
+<hr />
+
+<h2 id="related-links">Related links</h2>
+
+<ul>
+<li><a href="https://kb.mediatemple.net/questions/1599/">How to use SSH</a></li>
+<li><a href="http://www.linfo.org/cp.html">How to copy things in linux enviroment</a></li>
+</ul>
+
+            </div>
+
+			<footer class="article-footer container container--alone">
+	            <h2 class="article-footer__title">Keep on reading</h2>
+
+	            
+	                <a href="https://erikpantzar.github.io/thoughts/Ultimate-blog-experience/">
+	                    <h3>Next post: Github pages and Jekyll</h3>
+	                </a>
+	            
+
+	            
+	            <a href="https://erikpantzar.github.io/thoughts/Getting-further-Javascript/">
+	                <h3>Previous post: Getting further w JS</h3>
+	            </a>
+	            
+	        </footer>
+
+        
+    </article>
+</main>
+
+</body>
+</html>
+

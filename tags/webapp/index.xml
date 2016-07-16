@@ -10,10 +10,10 @@
     
     <item>
       <title>A small app in progress</title>
-      <link>https://erikpantzar.github.io/thoughts/post/a_small_app_in_progress/</link>
+      <link>https://erikpantzar.github.io/thoughts/a_small_app_in_progress/</link>
       <pubDate>Thu, 21 Jan 2016 01:00:47 +0100</pubDate>
       
-      <guid>https://erikpantzar.github.io/thoughts/post/a_small_app_in_progress/</guid>
+      <guid>https://erikpantzar.github.io/thoughts/a_small_app_in_progress/</guid>
       <description>
 
 &lt;p&gt;Now i basically know how to deploy to heroku (and they got a mongodb labs addon, so got db stuff &amp;ldquo;ok&amp;rdquo;) so now I know where and how to deploy the app! Now I just gotta get the steps left to cleared and a bit knowledge so that we can start producing the application!!&lt;/p&gt;
