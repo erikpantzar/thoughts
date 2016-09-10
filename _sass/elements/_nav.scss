@@ -1,0 +1,54 @@
+.nav {
+	display: block;
+	color: white;
+	text-align: center;
+	position: absolute;
+	top: 1em;
+	left: 4em;
+	z-index: 1000;
+
+	@media (min-width: $small) {
+		left: 3em;
+		position: fixed;
+	}
+
+	&__link {
+		font-weight: normal;
+		font-size: 0.775em;
+		display: block;
+
+		padding: 0 10px;
+		width: 82px;
+		line-height: 42px;
+		height: 44px;
+
+		position: relative;
+		top: -3px;
+
+		color: inherit;
+		box-sizing: border-box;
+		text-decoration: none;
+		border: 1px solid;
+
+		&:hover {
+			color: black;
+		}
+
+		@media (min-width: $small) {
+			line-height: 30px;
+			height: 32px;
+		}
+	}
+
+	&__logo {
+		position: absolute;
+		top: 1em;
+		left: 1em;
+		z-index: 1000;
+		text-decoration: none;
+
+        @media (min-width: $small) {
+            position: fixed;
+        }
+	}
+}

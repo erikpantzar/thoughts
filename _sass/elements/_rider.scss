@@ -1,0 +1,25 @@
+.rider {
+	display: block;
+	box-sizing: border-box;
+	float: right;
+	padding: 5%;
+	width: 100%;
+	animation: slideInBottom 400ms ease-out;
+
+	@media (min-width: $small) {
+		width: 66%;
+	}
+
+	.cider--wide + & {
+		@media (min-width: $small) {
+			width: 50%;
+		}
+	}
+
+	&--fuller {
+		@media (min-width: $small) {
+			width: 100%;
+		}
+	}
+
+}

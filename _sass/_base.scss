@@ -1,0 +1,31 @@
+body {
+	background: #fff;
+	color: #111;
+}
+
+a {
+	color: inherit;
+}
+
+img {
+	max-width: 100%;
+}
+
+.container {
+	margin: auto;
+	width: 80%;
+	max-width: 1200px;
+
+	&--alone {
+		margin-top: 6em;
+	}
+}
+
+pre code {
+	font-family: "Incosolata", Monospace;
+	line-height: 1.2;
+	font-size: 13px;
+	padding:  20px 10px;
+	background: #dedede;
+	display: block;
+}

@@ -1,0 +1,18 @@
+.article-footer {
+	color: #ccc;
+	box-sizing: border-box;
+	padding-bottom: 40px;
+
+	a {
+		color: #444;
+	}
+
+	&--has-hero {
+		@media (min-width: 1000px) {
+			width: 50%;
+			margin: 0 0 0 42%;
+			position: relative;
+			float: left;
+		}
+	}
+}

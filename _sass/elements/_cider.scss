@@ -1,0 +1,99 @@
+
+
+.cider {
+	display: block;
+	overflow: hidden;
+	color: white;
+	background-color: #000;
+	background-size: 100% auto;
+	height: 60%;
+	height: 60vh;
+	position: relative;
+	float: left;
+	width: 100%;
+
+	@media (max-height: 400px) {
+		height: 100vh;
+	}
+
+	@media (min-width: $small) {
+		width: 34%;
+		width: 34vw;
+		height: 100%;
+		height: 100vh;
+	}
+
+	&--fixed {
+		@media (min-width: $small) {
+			position: fixed;
+			top: 0;
+			bottom: 0;
+			left: 0;
+		}
+	}
+
+	&__container {
+		position: relative;
+		height: 100%;
+	}
+
+	&__image {
+		position: absolute;
+	    right: 0;
+	    bottom: 0;
+	    top: 0;
+	    left: 0;
+		max-width: 500%;
+		min-width: 100%;
+		min-height: 100%;
+		max-height: 100%;
+
+		animation: zoomInOut 12s ease-out infinite alternate;
+
+		@media (min-width: $small) {
+			height: 100%;
+			width: auto;
+
+			animation: panoramaImage 25s linear infinite alternate;
+
+
+		}
+
+	}
+
+	&__content {
+		position: absolute;
+		bottom: 2em;
+		left: 1em;
+		right: 1em;
+		animation: getInThere 400ms ease-in-out;
+		z-index: 100;
+
+		p {
+			margin: 0;
+		}
+	}
+
+	&__title {
+		margin-bottom: 15px;
+	}
+
+	&__sub {
+		margin: 0;
+		font-weight: normal;
+		font-size: 1em;
+	}
+}
+
+@keyframes zoomInOut {
+	to {
+		transform: translate(-5%, -5%) scale(1.2);
+	}
+}
+
+@keyframes panoramaImage {
+	to {
+		transform: translate(-20%, 0) scale(1.2);
+
+	}
+}

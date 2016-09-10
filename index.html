@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<article class="cider cider--fixed">
+		<div class="cider__content">
+		    <h1 class="cider__title title--page">Here are my posts</h1>
+		    <p class="cider__sub">Hope you something nice too read.</p>
+		</div>
+		<div class="cider__container">
+			<img src="{{ site.baseurl }}/images/posts/man-with-a-pipe-1440.jpg" alt="Man with a pipe" class="cider__image">
+		</div>
+  </article>
+
+  <aside class=rider>
+	  <ul class="list list--posts posts">
+	    {% for post in site.posts %}
+	      <li class="list__item">
+					<article class="post-item">
+
+	        <h2 class="post-item__title">
+	          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+	        </h2>
+					<date class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</date>
+					</article>
+	      </li>
+	    {% endfor %}
+	  </ul>
+
+  </aside>

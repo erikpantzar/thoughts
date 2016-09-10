@@ -1,0 +1,14 @@
+
+.bg--man-w-pipe {
+	background: black;
+	background: url('../assets/generic/man-with-a-pipe-smaller.jpg') 50% center no-repeat black;
+	background-size:  100% auto;
+
+	@media (min-width: $small) {
+		background-size: auto 100%;
+	}
+
+	@media (max-height: 600px) and (min-width: $small) {
+		background-size: 100%;
+	}
+}

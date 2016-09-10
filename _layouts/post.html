@@ -1,0 +1,37 @@
+{% include header.html %}
+
+<main>
+
+  <article class=post>
+    {% if page.image %}
+      <header class="cider cider--fixed">
+
+        <div class="cider__container">
+          <img class="cider__image" src="{{ site.baseurl }}/images/posts/{{ page.image }}" alt="{{ page.image }}">
+        </div>
+
+        <div class="cider__content">
+          <h1>{{ page.title }}</h1>
+          <p><date>{{ page.date | date_to_string }}</date></p>
+        </div>
+
+        {{ content | reading_time_as_i }}
+
+      </header>
+
+      <div class="post__content post__content--has-hero rider">
+        {{ content }}
+      </div>
+    {% else  %}
+
+      <div class="post__content container container--alone">
+        {{ content }}
+      </div>
+
+    {% endif %}
+
+
+  </article>
+</main>
+
+{% include header.html %}
