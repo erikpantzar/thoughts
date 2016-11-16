@@ -16,3 +16,46 @@
 		}
 	}
 }
+
+.post-nav {
+	&__link {
+		float: none;
+		clear: both;
+		display: block;
+		box-sizing: border-box;
+		background: #fafafa;
+		color: #333;
+		padding: 25px 10px;
+		width: 90%;
+		margin: 0 auto 15px;
+		text-decoration: none;
+		text-align: center;
+
+		@media (min-width: 768px) {
+			width: 50%;
+			margin: 0 0 25px;
+			float: left;
+			clear: none;
+		}
+
+		&:hover {
+			display: inline-block;
+			background: #efefef;
+			color: #222;
+		}
+	}
+
+	&__content {
+		margin: 0;
+	}
+
+	&__prev {
+		background: #eee;
+		color: #999;
+	}
+
+	&__next {
+		background: #ddd;
+		color: #111;
+	}
+}

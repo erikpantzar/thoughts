@@ -2,17 +2,27 @@
 layout: default
 ---
 
-<article class="cider cider--fixed">
-		<div class="cider__content">
-		    <h1 class="cider__title title--page">Here are my posts</h1>
-		    <p class="cider__sub">Hope you something nice too read.</p>
-		</div>
-		<div class="cider__container">
-			<img src="{{ site.baseurl }}/images/posts/man-with-a-pipe-1440.jpg" alt="Man with a pipe" class="cider__image">
-		</div>
-  </article>
 
-  <aside class=rider>
+<aside class="cider cider--fixed">
+
+
+    <div class="hero">
+    	<svg viewBox="0 0 196 163" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        	<g><path class="burg" d="M9.79975525,85.3878774 L8.35979369,135.01377 L30.5065832,124.727225 L53.8367415,111.749236 L65.3563534,166.131675 L117.165172,158.663778 L117.165168,92.6239767 L124.301651,74.126235 L146.659134,43.5888281 L170.204605,5.15127084 L180.790939,-0.0908050778 L182.729263,-10.8635493 L159.494156,-1.82848742 L130.73085,30.0642195 C130.73085,30.0642195 114.681822,44.9241042 111.505966,47.6342344 C108.33011,50.3443646 97.7034756,55.025157 97.7034756,55.025157 L84.8790585,55.0251544 L80.7651288,46.5763782 L70.6742436,20.7048406 L48.803539,21.8714361 L37.5380761,39.2860555 L41.7807499,55.0251531 L53.8367421,60.0765981 L58.1802054,68.1568441 L53.8367415,77.6340627 L44.3798094,85.3878774 L22.0945225,109.787765 L23.6630402,83.1500387 L27.4698401,68.1568441 L16.0504384,72.7192373 L9.79975525,85.3878774 Z" id="zz" stroke="#000000" sketch:type="MSShapeGroup" transform="translate(95.544528, 77.634063) rotate(8.000000) translate(-95.544528, -77.634063) "></path></g>
+        </svg>
+    </div>
+
+    <div class="cider__header">
+      <h2 class="cider__title">Hello,<br> my name is Erik!</h2>
+      <p class="cider__content">
+        Frontend developer [FED]<br>
+        lover of the javascripts!
+      </p>
+    </div>
+
+</aside>
+
+  <article class=rider>
 	  <ul class="list list--posts posts">
 	    {% for post in site.posts %}
 	      <li class="list__item">
@@ -27,4 +37,4 @@ layout: default
 	    {% endfor %}
 	  </ul>
 
-  </aside>
+  </article>

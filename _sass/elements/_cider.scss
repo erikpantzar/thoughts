@@ -1,25 +1,17 @@
-
+$cider-bg: #fafafa;
+$header-height: 161px;
 
 .cider {
 	display: block;
 	overflow: hidden;
-	color: white;
-	background-color: #000;
-	background-size: 100% auto;
-	height: 60%;
-	height: 60vh;
+	color: #111;
+	background: $cider-bg;
 	position: relative;
 	float: left;
 	width: 100%;
 
-	@media (max-height: 400px) {
-		height: 100vh;
-	}
-
 	@media (min-width: $small) {
-		width: 300px;
-		height: 100%;
-		height: 100vh;
+		width: 260px;
 	}
 
 	&--fixed {
@@ -30,6 +22,23 @@
 			left: 0;
 		}
 	}
+
+	&__header {
+		padding: 15px 10px;
+		box-sizing: border-box;
+		display: block;
+		transition: all 300ms ease-in-out;
+		width: 100%;
+
+		@media (min-width: 768px) {
+			position: absolute;
+			bottom: calc(100% - #{$header-height} - 44px);
+			height: $header-height;
+		}
+	}
+
+	&__title { margin: 10px 0 10px; }
+	&__content { margin: 0; }
 
 	&__container {
 		position: relative;
@@ -60,23 +69,6 @@
 
 	}
 
-	&__content {
-		position: absolute;
-		bottom: 2em;
-		left: 1em;
-		right: 1em;
-		animation: getInThere 400ms ease-in-out;
-		z-index: 100;
-
-		p {
-			margin: 0;
-		}
-	}
-
-	&__title {
-		margin-bottom: 15px;
-	}
-
 	&__sub {
 		margin: 0;
 		font-weight: normal;
@@ -94,5 +86,29 @@
 	to {
 		transform: translate(-20%, 0) scale(1.2);
 
+	}
+}
+
+@media (min-width: 768px) {
+	.new .cider {
+	  padding-top: 44px;
+	  transition: padding 500ms ease-in-out;
+	}
+
+	.new .cider__header {
+	  bottom: 230px;
+	  transition: all 500ms ease-in-out;
+	}
+
+	.new .cider__nav {
+	  transition: transform 550ms ease-in-out;
+	  transform: translateY(300%);
+	}
+
+	.new .hero {
+	  bottom: 3%;
+	  left: 9px;
+	  transform: scale(0.55);
+	  transition: all 500ms ease-in-out;
 	}
 }
