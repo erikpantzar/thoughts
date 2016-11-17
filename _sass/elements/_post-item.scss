@@ -3,3 +3,85 @@
 .post-item {
 	margin: 0 0 2em;
 }
+
+.post {
+	&--nohero {
+		// animation: slideInBottom 400ms ease-out;
+	}
+
+	&--hero {}
+
+	&__header {
+		position: absolute;
+		background: #000;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		overflow: hidden;
+		z-index: 10;
+	}
+
+	&__hero {
+		height: 100vh;
+		max-width: 100000px;
+	}
+
+	&__hero-content {
+		padding: 10px 20px;
+		position: absolute;
+		background: rgba(black, .6);
+		color: #fff;
+		bottom: 20px;
+		left: 20px;
+		right: 83px;
+
+		@media (min-width: 768px) {
+			right: auto;
+			max-width: 50%;
+		}
+
+		h1, p {
+			margin: 0;
+		}
+
+		h1 {
+			line-height: 1.44;
+			margin-bottom: 5px;
+		}
+
+		p {
+			font-size: 12px;
+		}
+	}
+
+	&__scroll-down {
+		background: rgba(#000, .6);
+		fill: #fff;
+		position: absolute;
+		bottom: 20px;
+		right: 20px;
+		height: 50px;
+		width: 50px;
+
+		@media (min-width: 768px) {
+			left: auto;
+		}
+	}
+
+	&__icon {
+		position: absolute;
+		top: 12px;
+		width: 24px;
+		left: 12px;
+		height: 24px;
+	}
+
+	&__content {
+		&--hero {
+			@media (min-width: 768px) {
+				margin-top: 100vh;
+			}
+		}
+	}
+}

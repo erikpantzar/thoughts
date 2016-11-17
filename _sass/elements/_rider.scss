@@ -4,7 +4,6 @@
 	float: right;
 	padding: 5%;
 	width: 100%;
-	animation: slideInBottom 400ms ease-out;
 
 	@media (min-width: $small) {
 		width: calc(100% - 260px);

@@ -25,9 +25,10 @@
 		box-sizing: border-box;
 		background: #fafafa;
 		color: #333;
-		padding: 25px 10px;
-		width: 90%;
+		padding: 25px 0;
+		width: 100%;
 		margin: 0 auto 15px;
+		padding: 25px 0;
 		text-decoration: none;
 		text-align: center;
 
@@ -39,7 +40,6 @@
 		}
 
 		&:hover {
-			display: inline-block;
 			background: #efefef;
 			color: #222;
 		}

@@ -10,6 +10,14 @@ $header-height: 161px;
 	float: left;
 	width: 100%;
 
+	@at-root .main--post-image & {
+		display: none;
+
+		@media (min-width: 768px) {
+			display: block;
+		}
+	}
+
 	@media (min-width: $small) {
 		width: 260px;
 	}
@@ -45,30 +53,6 @@ $header-height: 161px;
 		height: 100%;
 	}
 
-	&__image {
-	    position: absolute;
-	    right: 0;
-	    bottom: 0;
-	    top: 0;
-	    left: 0;
-	    max-width: 500%;
-	    min-width: 100%;
-	    min-height: 100%;
-	    max-height: 100%;
-
-	    animation: zoomInOut 12s ease-out infinite alternate;
-
-	    @media (min-width: $small) {
-		height: 100%;
-		width: auto;
-
-		animation: panoramaImage 25s linear infinite alternate;
-
-
-	    }
-
-	}
-
 	&__sub {
 		margin: 0;
 		font-weight: normal;
@@ -76,32 +60,16 @@ $header-height: 161px;
 	}
 }
 
-@keyframes zoomInOut {
-	to {
-		transform: translate(-5%, -5%) scale(1.2);
-	}
-}
-
-@keyframes panoramaImage {
-	to {
-		transform: translate(-20%, 0) scale(1.2);
-
-	}
-}
-
 @media (min-width: 768px) {
 	.new .cider {
 	  padding-top: 44px;
-	  transition: padding 500ms ease-in-out;
 	}
 
 	.new .cider__header {
 	  bottom: 230px;
-	  transition: all 500ms ease-in-out;
 	}
 
 	.new .cider__nav {
-	  transition: transform 550ms ease-in-out;
 	  transform: translateY(300%);
 	}
 
@@ -109,6 +77,5 @@ $header-height: 161px;
 	  bottom: 3%;
 	  left: 9px;
 	  transform: scale(0.55);
-	  transition: all 500ms ease-in-out;
 	}
 }

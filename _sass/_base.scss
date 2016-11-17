@@ -30,3 +30,13 @@ pre code {
 	background: #dedede;
 	display: block;
 }
+
+
+.main {
+	&--post-image {
+		margin-top: 100vh;
+		@media (min-width: 768px) {
+			margin-top: 0;
+		}
+	}
+}
