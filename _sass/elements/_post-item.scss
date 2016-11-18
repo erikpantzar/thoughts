@@ -5,12 +5,6 @@
 }
 
 .post {
-	&--nohero {
-		// animation: slideInBottom 400ms ease-out;
-	}
-
-	&--hero {}
-
 	&__header {
 		position: absolute;
 		background: #000;
@@ -78,6 +72,8 @@
 	}
 
 	&__content {
+		margin: 0 0 4em;
+		
 		&--hero {
 			@media (min-width: 768px) {
 				margin-top: 100vh;

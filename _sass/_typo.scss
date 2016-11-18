@@ -16,6 +16,11 @@ body {
 }
 
 
+.post__content h1 {
+	margin: 1.5em 0 1em;
+}
+
+
 h2 {
 	&:first-child {
 		margin-top: 0;
@@ -53,4 +58,17 @@ p {
 .time-to-read {
 	font-style: italic;
 	margin-bottom: 0;
+}
+
+
+.post__content p {}
+.post__content a {
+	text-decoration: none;
+	border-bottom: 2px solid #444;
+	color: #444;
+	font-weight: 700;
+
+	&:hover {
+		color: #999;
+	}
 }

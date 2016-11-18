@@ -25,4 +25,13 @@
 		}
 	}
 
+
+	a {
+		transition: background 300ms ease-in;
+		&:hover {
+			background: #efefef;
+			transition: background 200ms ease-out;
+		}
+	}
+
 }
